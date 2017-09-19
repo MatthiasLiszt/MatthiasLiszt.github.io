@@ -5,7 +5,7 @@
 <title>Matthias Liszt's Code Portfolio</title>
 <style>
 body {
-  background: url(arabesque.png) repeat;
+  background: url(arabesque.jpg) repeat;
 }
 </style>
 <body onclick="changeTessellation()">
@@ -122,6 +122,7 @@ body {
 </center>
 <script>
 var background=true;
+var doubleSize=false;
 
 function shrinkPicture(){
  //alert("picture clicked");
@@ -139,10 +140,22 @@ function changeTessellation(){
    background=false;
   }
  else
-  {document.body.style.background = "url(arabesque.png) repeat";
+  {document.body.style.background = "url(arabesque.jpg) repeat";
+   document.body.style.backgroundSize = "110px 110px";
    background=true;
   }
 }
+
+function bobChange(){
+ document.body.style.background = "url(bobst.svg) repeat";
+ if(doubleSize)
+  {document.body.style.backgroundSize = "25px 15px";}
+ else
+  {document.body.style.backgroundSize = "50px 30px";}
+ doubleSize=!doubleSize;
+}
+
+setInterval(bobChange,7000);
 </script>
 </body>
 </html>
