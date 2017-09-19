@@ -3,10 +3,15 @@
 <meta name="keywords" content="learn to code, learn to program, learn programming, learn javascript, learn coding, code, coding, programming, software engineer, software developer, mean stack, web development, development, engineering, learn node.js, learn angular.js, learn express.js, learn mongoDB, coding bootcamp, javascript, open source">
 
 <title>Matthias Liszt's Code Portfolio</title>
-
+<style>
+body {
+  background: url(greydolphins.jpg) repeat;
+}
+</style>
+<body onclick="changeTessellation()">
 <center><h1>Matthias Liszt's Code Portfolio</h1></center>
 
-<center><img src="25592425.jpeg" /></center>
+<center><img id="profile" onclick="shrinkPicture()" src="25592425.jpeg" /></center>
 
 <br></br>
 <center>
@@ -115,5 +120,29 @@
 </tr>
 </table>
 </center>
+<script>
+var background=true;
 
+function shrinkPicture(){
+ //alert("picture clicked");
+ var width=document.images[0].width;
+ var height=document.images[0].height;
+ console.log("current picture dimensions "+width+" x "+ height);
+ window.document.images[0].setAttribute("width",Math.round(width/1.41));
+ window.document.images[0].setAttribute("height",Math.round(height/1.41));
+}
+
+function changeTessellation(){
+ console.log("body clicked");
+ if(background)
+  {document.body.style.background = "#eaeaea";
+   background=false;
+  }
+ else
+  {document.body.style.background = "url(greydolphins.jpg) repeat";
+   background=true;
+  }
+}
+</script>
+</body>
 </html>
