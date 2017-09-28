@@ -1,14 +1,24 @@
 <html>
+<head>
 <meta charset="utf-8">
 <meta name="keywords" content="learn to code, learn to program, learn programming, learn javascript, learn coding, code, coding, programming, software engineer, software developer, mean stack, web development, development, engineering, learn node.js, learn angular.js, learn express.js, learn mongoDB, coding bootcamp, javascript, open source">
-
 <title>Matthias Liszt's Code Portfolio</title>
 <style>
 body {
-  background: url(arabesque.jpg) repeat;
+  background: url(arabesque.jpg) repeat; 
+}
+#resume{
+ 
+ color: blue;
+ float:left;
+ border: none;
+ background: lightgrey;
 }
 </style>
+</head>
 <body onclick="changeTessellation()">
+<div id="mainline"><button id="resume" onclick="resumeLoad()">Resume</button></div>
+<br></br>
 <center><h1>Matthias Liszt's Code Portfolio</h1></center>
 
 <center><img id="profile" onclick="shrinkPicture()" src="25592425.jpeg" /></center>
@@ -162,6 +172,11 @@ function bobChange(){
 }
 
 setInterval(bobChange,7000);
+
+function resumeLoad(){
+ var win = window.open("cv.svg", '_blank');
+ win.focus();
+}
 </script>
 <br></br><br></br><br></br><br></br><br></br><br></br>
 <!-- Start of SimpleHitCounter Code -->

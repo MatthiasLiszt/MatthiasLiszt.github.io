@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="909" height="1286" viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_1{
+fill: #FFFFFF;
+}
+.g2_1{
+fill: none;
+stroke: #000080;
+stroke-width: 1.0694444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_1{
+}
+
+.s1_1{
+font-size: 27.50px;
+font-family: DejaVuSans_p;
+fill: #000000;
+}
+.s2_1{
+font-size: 15.28px;
+font-family: DejaVuSans-Bold_u;
+fill: #000000;
+}
+.s3_1{
+font-size: 15.28px;
+font-family: DejaVuSans_p;
+fill: #000000;
+}
+.s4_1{
+font-size: 18.33px;
+font-family: LiberationSerif_k;
+fill: #000080;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1286
+L909,1286
+L909,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M108.3,125.6l714.7,0l0,-43.1l-714.7,0l0,43.1Z" class="g1_1" />
+<path fill-rule="evenodd" d="M108.3,1188.8l714.7,0l0,-856.4l-714.7,0l0,856.4Z" class="g1_1" />
+<path fill-rule="evenodd" d="M108.3,332.4l528.6,0l0,-206.8l-528.6,0l0,206.8Z" class="g1_1" />
+<path fill-rule="evenodd" d="M821.5,332.4l1.5,0l0,-206.8l-1.5,0l0,206.8Z" class="g1_1" />
+<text 
+x="108" 
+y="108" 
+dx="0,0,0,0,0,0,-0.1,0,-1.4,0,0.1,0,0,0,-2.1,0" 
+class="s1_1"
+>CURRICULUM VITAE</text>
+
+<text 
+x="108" 
+y="146" 
+dx="0,0,0,0,0,0,0,0,0.2,0,0,-1.3,-1.3" 
+class="s2_1"
+>PERSONAL DATA</text>
+
+<text 
+x="108" 
+y="182" 
+dx="0,0,0,-0.1,0.1" 
+class="s3_1"
+>name:</text>
+
+<text 
+x="324" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,0.3" 
+class="s3_1"
+>Matthias </text>
+
+<text 
+x="395" 
+y="182" 
+dx="0,0,0,-0.2,0.1" 
+class="s2_1"
+>LISZT</text>
+
+<text 
+x="108" 
+y="204" 
+dx="0,0,-0.1,0.1,-0.5,0.1,0,0" 
+class="s3_1"
+>address:</text>
+
+<text 
+x="324" 
+y="204" 
+dx="0,-0.1,0.1,0,-0.1,0,0,0,-0.1,-0.3,0,0.1,0,0.2,0,-0.1,0,-0.1,0,-0.1,0,0,0,-0.1,0,-0.1,0,0,0,-0.4,0,0.1" 
+class="s3_1"
+>Am Schöpfwerk 58/4/11, 1120 Wien</text>
+
+<text 
+x="108" 
+y="249" 
+dx="0,0,0.1,-0.1,0,0,-0.1" 
+class="s3_1"
+>E-mail:</text>
+
+<text 
+x="324" 
+y="249" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,-0.1,0.1,0,0,0,0,0,0" 
+class="s3_1"
+>matthias.liszt@gmail.com</text>
+
+<text 
+x="108" 
+y="271" 
+dx="0,-0.1,0,0,0.2,0,0,0,0,-0.1,0,0,0,0" 
+class="s3_1"
+>date of birth:</text>
+
+<text 
+x="324" 
+y="271" 
+dx="0,0,0,0,0,0,-1,0.1,-0.1,0,0,0,0,0.3,0,-0.1,0,-0.1,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s3_1"
+>28th February 1978 in Güssing</text>
+
+<text 
+x="108" 
+y="293" 
+dx="0,0,0,0,0,-0.1,0.1,0,0,0,0,-0.1" 
+class="s3_1"
+>citizenship:</text>
+
+<text 
+x="324" 
+y="293" 
+dx="0,-0.1,0,0,0,0,0,0" 
+class="s3_1"
+>Austrian</text>
+
+<text 
+x="108" 
+y="316" 
+dx="0,-0.1,0,-0.1,0,0,0.1" 
+class="s3_1"
+>mobile:</text>
+
+<text 
+x="324" 
+y="316" 
+dx="0,0.1,-0.1,0.1,0.1,-0.1,0,0,0.1,-0.1,0.1,0,-0.1,0.1,0.1,-0.1,0.1" 
+class="s2_1"
+>0677 – 616 843 66</text>
+
+<text 
+x="108" 
+y="334" 
+dx="0,0,-0.6,0,-0.1,0.1" 
+class="s3_1"
+>skype:</text>
+
+<text 
+x="324" 
+y="334" 
+dx="0,-0.1,0,0,0.1,0,0,0.1,-0.1" 
+class="s3_1"
+>gunananda</text>
+
+<text 
+x="108" 
+y="387" 
+dx="0,0,0.1,0,0,0,0,-1.3,0,0,0.1,0,0,0,0,0,0" 
+class="s2_1"
+>IT RELATED CAREER</text>
+
+<text 
+x="108" 
+y="435" 
+dx="0,0,-0.1,0,0,-0.1,-0.1,0,0.1,0,0,0" 
+class="s3_1"
+>2017 August,</text>
+
+<text 
+x="270" 
+y="435" 
+dx="0,-0.3,0.1,0,-0.3,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0.3,-0.1,-0.1,-0.5,0.1,-0.1,0,0.1,-0.1,-0.1,0,0.1,0.1,0,-0.1,0,0,0.1,0,0.1,0,0,0,-0.1,0,0,0,-0.1,0,0.2,0,-0.1,0,0,0,0,0,0.1,0,0,0,-0.1,0.1,-0.1,0.1" 
+class="s3_1"
+>Learning functional programming with JavaScript, writing a LISP </text>
+
+<text 
+x="152" 
+y="452" 
+dx="0,-0.1,0.1,-0.1,0,0.1,-0.1,-0.1,0.1,0.1" 
+class="s3_1"
+>September </text>
+
+<text 
+x="270" 
+y="452" 
+dx="0,0,0,0,0.1,0,-0.1,0.1,-0.5,0.1,0,0.1,0,0,0,0,0,0,0,-0.1,0.1,0,0,-0.2,0,0,0,0,0,0,0,0,-0.1,0.1,0,0,0,0.2,-0.1,0,0.1,0,-0.1,-0.5,0,0,0.1,0,0,0.1,-0.1,0,0,-0.3,0,0.1,-0.1,0.1,0,-0.1,0,0,0,0.1,-0.1" 
+class="s3_1"
+>interpereter in Node.js, contributing to projects through github,</text>
+
+<text 
+x="270" 
+y="470" 
+dx="0,0,0,0,0,0,0,0.1,0,0,0,0,0,-0.1,0,-0.9,0.1,-0.1,0.1,0,0.1,0,0,0,0,0,0.1,0,0,0,-0.1,0.1,0,0,-0.1,0,0,0,-0.3,0,0.1,0,0,0.2,-0.1,0,0.1" 
+class="s3_1"
+>working on self-generating code , hackathon in </text>
+
+<text 
+x="635" 
+y="470" 
+dx="0,0,0,-0.1,0,0.2,0,0,0.1,0.2" 
+class="s2_1"
+>react VR, </text>
+
+<text 
+x="719" 
+y="470" 
+dx="0,0,-0.5,0.1,0,0,0,0" 
+class="s3_1"
+>creating</text>
+
+<text 
+x="268" 
+y="488" 
+dx="0,0,0,-0.1,-0.5,0,0,0.1,0,0.1,0,-0.1,0,0,0.1" 
+class="s3_1"
+>a project with </text>
+
+<text 
+x="377" 
+y="488" 
+dx="0,0,0.1,0,-0.1,0.1,0,0.1,0,0,0.1" 
+class="s2_1"
+>ngredux.js </text>
+
+<text 
+x="474" 
+y="488" 
+dx="0,0,0,0.1" 
+class="s3_1"
+>and </text>
+
+<text 
+x="508" 
+y="488" 
+dx="0,0,0,0.1,0,0,-0.1,0,0" 
+class="s2_1"
+>AngularJS</text>
+
+<text 
+x="592" 
+y="488" 
+dx="0,0,0,0,0,0,-0.1,0,0,0.1,0,0,0,0,0" 
+class="s3_1"
+>, working with </text>
+
+<text 
+x="705" 
+y="488" 
+dx="0,-1.9,0,0.1,0,0.1,0,0,0,0.1" 
+class="s2_1"
+>Typescript</text>
+
+<text 
+x="108" 
+y="524" 
+dx="0,0,-0.1,0,0,-0.1,0.1,0,0,0.1,-0.1,0.1,0,0" 
+class="s3_1"
+>2017 June,July</text>
+
+<text 
+x="270" 
+y="524" 
+dx="0,0,-0.1,0,0.2,0,0,0,0.1,0,-0.2,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s2_1"
+>Back End Development Cetriﬁcate</text>
+
+<text 
+x="564" 
+y="524" 
+dx="0,0,-0.1,0,-0.1,-0.1,-0.5,0.1,0,0,0,0.2,0,-0.4,0,0,0,0,0,0,0.1,0,0,0,-0.1,0,0,0,0,0" 
+class="s3_1"
+>, improving existing skills , </text>
+
+<text 
+x="270" 
+y="541" 
+dx="0,-0.8,0,0,0.1,0,0,0,-0.1,0,0.1,0,-0.7,0,0.1,0,0,0.1,0.1,0,0,0,-0.1,0,0,0,0,0.1,0,0,0,0,0.1,0,-0.1,0,-0.1,0,0,0" 
+class="s2_1"
+>Full Stack Web Applications with Node.js</text>
+
+<text 
+x="622" 
+y="541" 
+dx="0,0,0,0,-0.1,-0.1,-0.5,0,0,0,0.1,0.1,0,-0.1,0,0,-0.6,0.1,0,0.2" 
+class="s3_1"
+>, improving backend </text>
+
+<text 
+x="270" 
+y="559" 
+dx="0,-0.1,-0.5,0.1,-0.1,0,0.1,-0.1,-0.1,0,0.1,0.1,0,0,0,-0.1,0,0,0" 
+class="s3_1"
+>programming skills </text>
+
+<text 
+x="108" 
+y="595" 
+dx="0,0,-0.1,0,0,-0.1,0,0,-0.5,0.2,0,0,-0.1,-0.1,0,0,0.2" 
+class="s3_1"
+>2017 March,April </text>
+
+<text 
+x="270" 
+y="595" 
+dx="0,0,-0.1,0,0.1,0,-0.4,0,0.1,0,-0.1,0,0,0.1,-0.1,0,0,0,0.1,0,0,0,0,0,0,0,0,-0.1,0,0.2,0,0,0,-0.1,0.1,0,0" 
+class="s2_1"
+>Data Visualization Certiﬁcate , d3.js</text>
+
+<text 
+x="585" 
+y="595" 
+dx="0,-0.1,0,0,-0.1,-0.1,-0.5,0,0,0.2,0,0.2,-0.1,-0.1,0,0,-0.6,0.1,0,0.2" 
+class="s3_1"
+>, improving backend </text>
+
+<text 
+x="270" 
+y="613" 
+dx="0,-0.1,-0.5,0.1,-0.1,0,0.1,-0.1,-0.1,0,0.1,0.1,0,0,0,-0.1,0,0,0,0" 
+class="s3_1"
+>programming skills, </text>
+
+<text 
+x="432" 
+y="613" 
+dx="0,-1.1,0,0,0,0.2,0,0,0,0.1,0,0,0,0,0,0,-0.1,0.1,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0.2" 
+class="s2_1"
+>Front End Development Certiﬁcate, </text>
+
+<text 
+x="742" 
+y="613" 
+dx="0,0,0,0,0,0,0,0,0.2" 
+class="s3_1"
+>starting </text>
+
+<text 
+x="270" 
+y="630" 
+dx="0,0,0.1,-0.1,-0.1,-0.5,0.1,-0.1,0,0.1,-0.1,0.2,-0.1,0,0.1" 
+class="s3_1"
+>to programm in </text>
+
+<text 
+x="394" 
+y="630" 
+dx="0,0,0,-0.1,0,0,0,0" 
+class="s2_1"
+>React.Js</text>
+
+<text 
+x="468" 
+y="630" 
+dx="0,0,0,0.1,0,0,-0.5,0.1,0,0,0,0,0.1,0,-0.1,0,0,0,-0.1,0,0.3,-0.1,0,0.1,-0.1,0,-0.1,0,-0.1,0.1,0,0.2,-0.1,0,-0.1,-0.1,-0.5,0.1,0,0,0,0.2" 
+class="s3_1"
+>and creating dynamic web pages, improving </text>
+
+<text 
+x="270" 
+y="648" 
+dx="0,-0.1,0.1,0,0.1,-0.2,0,0,0,0,0,0.1,3.4,0,0,-0.1,0,0" 
+class="s3_1"
+>my JSON and NoSQL </text>
+
+<text 
+x="439" 
+y="648" 
+dx="0,-0.1,0,0,0,-0.1,0,0,0.2,0,0,0,0,-0.1,0,0,0,0,0,-0.1,-0.1,-0.5,0,0,0,0.1,0.1,0,0,0,0,-0.1,0,0.1,-0.1,0,0,0,0,0,-0.2,0,0,0.1,-0.3,0,0,0" 
+class="s3_1"
+>database skills, improving skills with external </text>
+
+<text 
+x="270" 
+y="666" 
+dx="0,0,0,0,-0.1,0.1,0,0,0,0,0.1,-0.1,0,0,0.2,-0.1,-0.1,0,0.1" 
+class="s3_1"
+>frameworks and APIs</text>
+
+<text 
+x="108" 
+y="705" 
+dx="0,0,-0.1,0,0,-0.1,0.1,0,0,0,0,-0.8,0.1,-0.1,0,0,0,0,0.1" 
+class="s3_1"
+>2017 Jan.-February </text>
+
+<text 
+x="270" 
+y="705" 
+dx="0,0.1,0,0,0,0,0,0.1,0,-0.4,-0.5,0,0,0.1,0,0.1,-0.1,0,0.1,0,0,0,-0.1,0,0,0,0.1,0,0,-0.5,0,0,0.1,-0.1,0.1,-0.3,0,0.1,0,-0.5,0,0.2,-0.1,0,0.1,-0.2,0.1,-0.1,0.1,0.1,0,0,-0.1,0,0,0,0,-0.5,0.1,-0.1,0.3,0,0,0,0.1" 
+class="s3_1"
+>Joining Project Mesa Solar (Raspberry Pi, NetIdee sponsored) and </text>
+
+<text 
+x="270" 
+y="723" 
+dx="0,-0.4,-0.5,0,0,0.1,0,0.1,0,0,-0.1,0,0,-0.1,0.1,0,0.1,-0.6,0,0,0,0,0.2,0,0,0,0,-0.1,0,0,0.1,0,-0.1,-0.1,-0.1,0.2,0,0,-0.1,0,0,0,0,-0.5,0.2,0.1,0,-0.1,0,0,0.1,0,0,0,-0.6,0.1,0,-0.1,-0.5,0,0.1,-0.1,0.1,0" 
+class="s3_1"
+>Project Blindenakustik (Mobile App, sponsored by Zühlke Group), </text>
+
+<text 
+x="270" 
+y="740" 
+dx="0,0,0,0,0,0,0,0.1,0,-0.1,0,0,0.1,0,-0.1,0,0,0,-0.1,0,0,0,-0.1,0,0.3" 
+class="s3_1"
+>working with JavaScript, </text>
+
+<text 
+x="459" 
+y="740" 
+dx="0,0,-0.1,0.1,0,0,0" 
+class="s2_1"
+>Node.Js</text>
+
+<text 
+x="524" 
+y="740" 
+dx="0,0" 
+class="s3_1"
+>, </text>
+
+<text 
+x="534" 
+y="740" 
+dx="0,0.1,0,-0.2,0.1,0,0,0" 
+class="s2_1"
+>MongoDB,</text>
+
+<text 
+x="627" 
+y="740" 
+dx="0,0.1,0,0,0,0" 
+class="s2_1"
+>Python</text>
+
+<text 
+x="693" 
+y="740" 
+dx="0,0.1,0,0,0" 
+class="s3_1"
+>etc. </text>
+
+<text 
+x="270" 
+y="758" 
+dx="0,0,-0.1,-0.1,-0.5,0.1,0,0.2,-0.1,-0.1,0.1" 
+class="s3_1"
+>improve my </text>
+
+<text 
+x="366" 
+y="758" 
+dx="0,0,0,0,0" 
+class="s2_1"
+>Linux</text>
+
+<text 
+x="418" 
+y="758" 
+dx="0,0,-0.1,0,0,0,0,0,0,0,0.1,0,-0.1,0.1,0,0,0,0,0.1,-0.1,-0.1,0.1,0.1,-0.1,0.1,0,0,0,0,0,0,0,-0.7,-0.1,-0.3,0,0.1,0,0,-0.1,-0.5,0,-0.1,0.1,0,0.1,-0.1,0,0,-0.1" 
+class="s3_1"
+>skills and getting deeper into Kernel programming,</text>
+
+<text 
+x="270" 
+y="776" 
+dx="0,0,-0.1,-0.1,-0.5,0.1,0,0,0,0.2,0,-0.1,0,0,0.1,-0.1,0,0,0,0,0,0,0,0,0,0,-0.1,0.1,0,0,0,0,-0.5,0.1,0.1,-0.1,-0.1,0.1,0,-0.1,0,0,0.1,0,0,0,-0.5,0.1,0.2,0,-0.1,-0.5,0,-0.1,0.1,0,-0.1,-0.1,0.2,0,0.2,-0.1,0,-0.1,-0.1,0.3,-0.1,0,0" 
+class="s3_1"
+>improving Java skills to get hired by Ascenture, programming apps for</text>
+
+<text 
+x="270" 
+y="794" 
+dx="0,0,0,0,0,0,0.1,0,-0.1,0,0,-0.1,0.1,0" 
+class="s3_1"
+>online payment</text>
+
+<text 
+x="108" 
+y="833" 
+dx="0,0,-0.1,0,0" 
+class="s3_1"
+>1997 </text>
+
+<text 
+x="270" 
+y="833" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,-0.5,0,0,-0.3,0,0,0.1,0,0.1,0,0,-0.1,0,0.1,0,-0.3,0,0.1,0.1,-0.1,0,0.1,-0.1,-0.1,-0.5,0.1,-0.1,0,0.1,0.1,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0.1,-0.1,-0.1,0,0.1,0" 
+class="s3_1"
+>ﬁnal/Matura at HTL Pinkafeld , learned to program in x86 Assembler,</text>
+
+<text 
+x="270" 
+y="851" 
+dx="0,0,0,0,-0.1,0,0,-0.1,0,0,-0.5,0,0,0,0,0.3,-0.1,0,0,-0.1,0,0,-0.8,0,0,0,0,0,0.2,0,-0.1,0,0,0,-0.1,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0.1,0,0,0,0,0,0,-0.1,0,0,0.1,0.1,0,0,0,0,0,0.1,-0.1" 
+class="s3_1"
+>C , C++, Visual C++, Pascal, SQL etc. and to use Unix based systems</text>
+
+<text 
+x="108" 
+y="911" 
+dx="0,0,0.1,0,0,0,-0.2,0,0,0,0,0.2,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,-0.1,0,0,0,-0.1,0,0.1,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s2_1"
+>Open Source Projects On The Net and Portfolios</text>
+
+<text 
+x="108" 
+y="952" 
+dx="0,0,0,0,0,0,0,0,0.1,-0.2,0.1,0,0,0.1,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0.1,0,0" 
+class="s4_1"
+>https://matthiasliszt.github.io/</text>
+
+<path d="M108.5,954.6l218.9,0" class="g2_1" />
+<text 
+x="332" 
+y="952" 
+dx="0,0,-0.1,0,0,0,0,0,0,0,0.1,0,0,0,0.1,0,0,0,0,0.1,-0.5,0.1,0,0,0,0,0.1,0,-0.1,-0.5,0,0,0.1,0,0,0,0.1" 
+class="s3_1"
+>(portfolio and interesting projects) </text>
+
+<text 
+x="108" 
+y="991" 
+dx="0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0.1,-0.2,0,0.2,0,0,0,0.1,0,0,0,0,0,0,0" 
+class="s4_1"
+>https://github.com/MatthiasLiszt</text>
+
+<path d="M108.5,993.4l239.8,0" class="g2_1" />
+<text 
+x="353" 
+y="991" 
+dx="0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.1,0.3,-0.1,0,0,0,0.1,0,0,0,-0.1,0,0,0,-0.1,0,0.1" 
+class="s3_1"
+>(mostly things in JavaScript) </text>
+
+<text 
+x="108" 
+y="1033" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_1"
+>https://coding4lifeblog.wordpress.com</text>
+
+<path d="M108.5,1035.5l283.1,0" class="g2_1" />
+<text 
+x="396" 
+y="1033" 
+dx="0,0,0,0,0,0,0,-0.1,0.1,0,-0.1,0,0,0,0.1,0,0,0,0,0,0,0,-0.5,0,0.1,0,0,0.1,-0.1,0.1,0,0.1,0,-0.1,0,0,-0.1,-0.1,0.1,0,0,0,0,0.1" 
+class="s3_1"
+>( what's going on in Vienna's IT community) </text>
+
+<text 
+x="108" 
+y="1082" 
+dx="0,0,0,-0.8,0,0,0,0.3,-0.1,0,-0.1,0,0,0,0.1,-0.1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_1"
+>FURTHER SKILLS AND ABILITIES</text>
+
+<text 
+x="108" 
+y="1129" 
+dx="0,0,0,0,-0.1,0,0.1,-0.1,0.1" 
+class="s3_1"
+>languages</text>
+
+<text 
+x="324" 
+y="1129" 
+dx="0,0,0,-0.1,0,0,0,0.1,0,-0.1,0,-0.1,0.1,-0.3,-0.1,0,0.1,0,0,0,-0.2,0.1,0,0.1,0,0,0,0,0,0,0,0.1,0,0,0,0,0,-0.1,0,0.1,-0.1,0.1" 
+class="s3_1"
+>English , German , several other languages</text>
+
+<text 
+x="108" 
+y="1173" 
+dx="0,0,0,0,0.1,0.1,-0.1,0,0,0,0,-0.1" 
+class="s3_1"
+>other things</text>
+
+<text 
+x="324" 
+y="1173" 
+dx="0,-0.1,0,0,0,0.1,0,-0.1,0,0,0,0,-0.1,0.1,0,0,0.1,0,0,0,0,0,0.1,-0.1,0,-0.1,0" 
+class="s3_1"
+>driver's license since 1997</text>
+
+<path fill-rule="evenodd" d="M822.9,348.6l0,0.6l-714.6,0l0,-0.6l0,-0.6l714.6,0l0,0.6Z" class="g3_1" />
+<image preserveAspectRatio="none" x="637" y="125" width="184" height="207" xlink:href="cv.png" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: DejaVuSans_p;
+	src: url("fonts/DejaVuSans_p.woff") format("woff");
+}
+
+@font-face {
+	font-family: LiberationSerif_k;
+	src: url("fonts/LiberationSerif_k.woff") format("woff");
+}
+
+@font-face {
+	font-family: DejaVuSans-Bold_u;
+	src: url("fonts/DejaVuSans-Bold_u.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
