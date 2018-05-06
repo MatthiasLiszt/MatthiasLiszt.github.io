@@ -1,0 +1,27 @@
+
+#thanks{
+ margin: auto;
+ font-size: 300%;
+}
+
+div{
+ width: 100vw;
+ height: 100vh;
+}
+
+div h1{
+ text-align: center;
+}
+
+div ul{
+ padding: 10vw;
+ font-size: 120%;
+}
+
+div hr{
+ display: none;
+}
+
+div span{
+ font-size: 80%;
+}
