@@ -37,15 +37,16 @@ div span{
 body{
  background-color: lightgrey;
  font-family: "sans-serif";
+ font-size: 3vh;
 }
 #thanks{
  margin: auto;
- font-size: 200%;
+ font-size: 5vh;
 }
 
 div{
  width: 100vw;
- height: 50vh;
+ height: 100vh;
 }
 
 div h1{
@@ -54,7 +55,7 @@ div h1{
 
 div ul{
  padding: 10vw;
- font-size: 160%;
+ font-size: 140%;
 }
 
 div hr{
