@@ -46,7 +46,7 @@ body{
 
 div{
  width: 100vw;
- 
+ margin-top: 10vh;
 }
 
 div h1{
@@ -55,7 +55,7 @@ div h1{
 
 div ul{
  padding: 10vw;
- font-size: 140%;
+ font-size: 120%;
 }
 
 div hr{
