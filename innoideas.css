@@ -34,10 +34,13 @@ div span{
 @media screen and (max-width: 400px)
 {
 
+body{
+ background-color: lightgrey;
+ font-family: "sans-serif";
+}
 #thanks{
  margin: auto;
  font-size: 200%;
- font-family: "sans-serif";
 }
 
 div{
