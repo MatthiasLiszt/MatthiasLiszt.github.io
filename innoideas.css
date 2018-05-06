@@ -1,4 +1,7 @@
 
+@media screen and (min-width: 640px)
+{
+
 #thanks{
  margin: auto;
  font-size: 300%;
@@ -24,4 +27,39 @@ div hr{
 
 div span{
  font-size: 80%;
+}
+
+}
+
+@media screen and (max-width: 400px)
+{
+
+#thanks{
+ margin: auto;
+ font-size: 200%;
+ font-family: "sans-serif";
+}
+
+div{
+ width: 100vw;
+ height: 50vh;
+}
+
+div h1{
+ text-align: center;
+}
+
+div ul{
+ padding: 10vw;
+ font-size: 160%;
+}
+
+div hr{
+ display: none;
+}
+
+div span{
+ font-size: 100%;
+}
+
 }
