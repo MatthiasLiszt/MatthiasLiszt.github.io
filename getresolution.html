@@ -1,0 +1,20 @@
+<html>
+<head><title>get Screen Resolution</title></head>
+<script>
+
+function screenData(){
+ var availableWidth=screen.availWidth;
+ //var innerWidth=screen.innerWidth;
+
+ document.write("screen data ");
+ document.write(" avaiable width for browser "+availableWidth);
+ document.write(" inner width of browser "+window.innerWidth);
+}
+
+//screenData();
+ 
+</script>
+<body onresize="screenData()">
+<script>screenData();</script>
+</body>
+</html>
