@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 2 -->
+<svg x="0" y="0" width="909" height="1287" viewBox="0 0 909 1287" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_2"><path d="M0,1286.8V0H909V1286.8Z" /></clipPath>
+<clipPath id="c1_2"><path d="M0,1285.7V0H909V1285.7Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+text::-moz-selection {
+	color: transparent;
+	background: rgba(0, 106, 173, 0.4);
+}
+text::selection {
+	color: transparent;
+	background: rgba(0, 106, 173, 0.4);
+}
+
+.s1_2{
+font-size: 15.26px;
+font-family: Tinos-Bold_h;
+fill: TRANSPARENT;
+}
+.s2_2{
+font-size: 15.26px;
+font-family: Tinos_c;
+fill: TRANSPARENT;
+}
+.s3_2{
+font-size: 18.32px;
+font-family: Tinos_c;
+fill: TRANSPARENT;
+}
+
+.g0_2{
+fill: #FFFFFF;
+}
+.g1_2{
+fill: #000080;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1287
+L909,1287
+L909,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_2)">
+<path d="M0,-1286.7H909V2573.7H0V-1286.7Z" class="g0_2" />
+<path d="M0,-1286.7H909V2573.7H0V-1286.7Z" class="g0_2" />
+</g>
+<g clip-path="url(#c1_2)">
+<path d="M0,0H909V1285.7H0V0Z" class="g0_2" />
+</g>
+<path d="M0,82.4H909V1285.7H0V82.4Z" class="g0_2" />
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f0_1g" transform="matrix(10,0,0,10,108.1,115.6)" />
+<use xlink:href="#f0_1i" transform="matrix(10,0,0,10,117.5,115.6)" />
+<use xlink:href="#f0_1f" transform="matrix(10,0,0,10,128.5,115.6)" />
+<use xlink:href="#f0_17" transform="matrix(10,0,0,10,140.3,115.6)" />
+<use xlink:href="#f0_1i" transform="matrix(10,0,0,10,152.2,115.6)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,163.2,115.6)" />
+<use xlink:href="#f0_1d" transform="matrix(10,0,0,10,174.3,115.6)" />
+<use xlink:href="#f0_1d" transform="matrix(10,0,0,10,188.7,115.6)" />
+<use xlink:href="#f0_19" transform="matrix(10,0,0,10,203.1,115.6)" />
+<use xlink:href="#f0_1e" transform="matrix(10,0,0,10,209,115.6)" />
+<use xlink:href="#f0_17" transform="matrix(10,0,0,10,220,115.6)" />
+<use xlink:href="#f0_1c" transform="matrix(10,0,0,10,235.7,115.6)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,245.9,115.6)" />
+<use xlink:href="#f0_1e" transform="matrix(10,0,0,10,256.9,115.6)" />
+<use xlink:href="#f0_17" transform="matrix(10,0,0,10,267.9,115.6)" />
+<use xlink:href="#f0_1l" transform="matrix(10,0,0,10,279.8,115.6)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,290.8,115.6)" />
+<use xlink:href="#f0_17" transform="matrix(10,0,0,10,301.8,115.6)" />
+<use xlink:href="#f0_15" transform="matrix(10,0,0,10,313.7,115.6)" />
+<use xlink:href="#f0_1j" transform="matrix(10,0,0,10,323.9,115.6)" />
+<use xlink:href="#f0_g" transform="matrix(10,0,0,10,332.4,115.6)" />
+<use xlink:href="#f0_1c" transform="matrix(10,0,0,10,340,115.6)" />
+<use xlink:href="#f0_19" transform="matrix(10,0,0,10,350.2,115.6)" />
+<use xlink:href="#f0_12" transform="matrix(10,0,0,10,356.1,115.6)" />
+<use xlink:href="#f0_1i" transform="matrix(10,0,0,10,366.3,115.6)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,377.3,115.6)" />
+<use xlink:href="#f0_1i" transform="matrix(10,0,0,10,388.3,115.6)" />
+<use xlink:href="#f0_19" transform="matrix(10,0,0,10,399.3,115.6)" />
+<use xlink:href="#f0_15" transform="matrix(10,0,0,10,405.3,115.6)" />
+<use xlink:href="#f0_1j" transform="matrix(10,0,0,10,415.5,115.6)" />
+<use xlink:href="#f0_g" transform="matrix(10,0,0,10,423.9,115.6)" />
+<use xlink:href="#f0_16" transform="matrix(10,0,0,10,431.6,115.6)" />
+<use xlink:href="#f0_1i" transform="matrix(10,0,0,10,440.9,115.6)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,451.9,115.6)" />
+<use xlink:href="#f0_1d" transform="matrix(10,0,0,10,462.9,115.6)" />
+<use xlink:href="#f0_15" transform="matrix(10,0,0,10,477.3,115.6)" />
+<use xlink:href="#f0_1n" transform="matrix(10,0,0,10,487.5,115.6)" />
+<use xlink:href="#f0_1f" transform="matrix(10,0,0,10,502.8,115.6)" />
+<use xlink:href="#f0_1i" transform="matrix(10,0,0,10,514.6,115.6)" />
+<use xlink:href="#f0_1b" transform="matrix(10,0,0,10,525.7,115.6)" />
+<use xlink:href="#f0_1j" transform="matrix(10,0,0,10,537.5,115.6)" />
+<use xlink:href="#f0_14" transform="matrix(10,0,0,10,549.8,115.6)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,560.8,115.6)" />
+<use xlink:href="#f0_1k" transform="matrix(10,0,0,10,570.7,115.6)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,579.8,115.6)" />
+<use xlink:href="#f0_12" transform="matrix(10,0,0,10,590.8,115.6)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,601,115.6)" />
+<use xlink:href="#f0_1j" transform="matrix(10,0,0,10,612,115.6)" />
+<use xlink:href="#f0_15" transform="matrix(10,0,0,10,620.5,115.6)" />
+<use xlink:href="#f0_1j" transform="matrix(10,0,0,10,630.7,115.6)" />
+<use xlink:href="#f0_15" transform="matrix(10,0,0,10,643,115.6)" />
+<use xlink:href="#f0_1k" transform="matrix(10,0,0,10,653.1,115.6)" />
+<use xlink:href="#f0_13" transform="matrix(10,0,0,10,663.3,115.6)" />
+<use xlink:href="#f0_i" transform="matrix(10,0,0,10,674.3,115.6)" />
+</g>
+</g>
+<text x="108" y="115" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.1,-1.1,0,0,0,0,0,0,0,0,0,0,0" class="s1_2">PROGRAMMING LANGUAGES, LIBRARIES, FRAMEWORKS DATABASES ETC. </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f1_1a" transform="matrix(10,0,0,10,231.8,152.3)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,237.7,152.3)" />
+<use xlink:href="#f1_2i" transform="matrix(10,0,0,10,244.5,152.3)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,252.1,152.3)" />
+<use xlink:href="#f1_1j" transform="matrix(10,0,0,10,258.9,152.3)" />
+<use xlink:href="#f1_1z" transform="matrix(10,0,0,10,267.4,152.3)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,274.2,152.3)" />
+<use xlink:href="#f1_25" transform="matrix(10,0,0,10,279.2,152.3)" />
+<use xlink:href="#f1_2c" transform="matrix(10,0,0,10,283.5,152.3)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,291.1,152.3)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,295.3,152.3)" />
+<use xlink:href="#f1_15" transform="matrix(10,0,0,10,303,152.3)" />
+<use xlink:href="#f1_1j" transform="matrix(10,0,0,10,312.3,152.3)" />
+<use xlink:href="#f1_q" transform="matrix(10,0,0,10,320.8,152.3)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,328.4,152.3)" />
+<use xlink:href="#f1_11" transform="matrix(10,0,0,10,336,152.3)" />
+<use xlink:href="#f1_2a" transform="matrix(10,0,0,10,347.1,152.3)" />
+<use xlink:href="#f1_23" transform="matrix(10,0,0,10,354.7,152.3)" />
+<use xlink:href="#f1_2h" transform="matrix(10,0,0,10,362.3,152.3)" />
+<use xlink:href="#f1_28" transform="matrix(10,0,0,10,369.9,152.3)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,374.2,152.3)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,381,152.3)" />
+<use xlink:href="#f1_o" transform="matrix(10,0,0,10,389.9,152.3)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,397.5,152.3)" />
+<use xlink:href="#f1_11" transform="matrix(10,0,0,10,405.1,152.3)" />
+<use xlink:href="#f1_2a" transform="matrix(10,0,0,10,416.1,152.3)" />
+<use xlink:href="#f1_23" transform="matrix(10,0,0,10,423.8,152.3)" />
+<use xlink:href="#f1_2h" transform="matrix(10,0,0,10,431.4,152.3)" />
+<use xlink:href="#f1_28" transform="matrix(10,0,0,10,439,152.3)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,443.3,152.3)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,450,152.3)" />
+<use xlink:href="#f1_1a" transform="matrix(10,0,0,10,455.1,152.3)" />
+<use xlink:href="#f1_1j" transform="matrix(10,0,0,10,461.1,152.3)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,469.5,152.3)" />
+<use xlink:href="#f1_1k" transform="matrix(10,0,0,10,477.2,152.3)" />
+<use xlink:href="#f1_2l" transform="matrix(10,0,0,10,485.4,152.3)" />
+<use xlink:href="#f1_2c" transform="matrix(10,0,0,10,493.1,152.3)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,500.7,152.3)" />
+<use xlink:href="#f1_1j" transform="matrix(10,0,0,10,507.5,152.3)" />
+<use xlink:href="#f1_1z" transform="matrix(10,0,0,10,515.9,152.3)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,522.7,152.3)" />
+<use xlink:href="#f1_25" transform="matrix(10,0,0,10,527.8,152.3)" />
+<use xlink:href="#f1_2c" transform="matrix(10,0,0,10,532,152.3)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,539.7,152.3)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,543.9,152.3)" />
+</g>
+</g>
+<text x="231" y="152" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0,0,0" class="s2_2">JavaScript, ES6, Angular 4, AngularJS, TypeScript, </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f1_20" transform="matrix(10,0,0,10,230.2,170.6)" />
+<use xlink:href="#f1_n" transform="matrix(10,0,0,10,237.8,170.6)" />
+<use xlink:href="#f1_i" transform="matrix(10,0,0,10,245.5,170.6)" />
+<use xlink:href="#f1_26" transform="matrix(10,0,0,10,249.3,170.6)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,253.5,170.6)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,259.5,170.6)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,267.1,170.6)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,272.2,170.6)" />
+<use xlink:href="#f1_20" transform="matrix(10,0,0,10,278.9,170.6)" />
+<use xlink:href="#f1_2h" transform="matrix(10,0,0,10,286.6,170.6)" />
+<use xlink:href="#f1_2k" transform="matrix(10,0,0,10,294.2,170.6)" />
+<use xlink:href="#f1_i" transform="matrix(10,0,0,10,301.8,170.6)" />
+<use xlink:href="#f1_26" transform="matrix(10,0,0,10,305.6,170.6)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,309.9,170.6)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,319.6,170.6)" />
+<use xlink:href="#f1_2a" transform="matrix(10,0,0,10,327.3,170.6)" />
+<use xlink:href="#f1_23" transform="matrix(10,0,0,10,334.9,170.6)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,342.5,170.6)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,347.6,170.6)" />
+<use xlink:href="#f1_20" transform="matrix(10,0,0,10,354.4,170.6)" />
+<use xlink:href="#f1_2h" transform="matrix(10,0,0,10,362,170.6)" />
+<use xlink:href="#f1_2k" transform="matrix(10,0,0,10,369.6,170.6)" />
+<use xlink:href="#f1_i" transform="matrix(10,0,0,10,377.3,170.6)" />
+<use xlink:href="#f1_26" transform="matrix(10,0,0,10,381.1,170.6)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,385.3,170.6)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,391.3,170.6)" />
+<use xlink:href="#f1_1e" transform="matrix(10,0,0,10,398.9,170.6)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,409.9,170.6)" />
+<use xlink:href="#f1_20" transform="matrix(10,0,0,10,417.5,170.6)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,425.2,170.6)" />
+<use xlink:href="#f1_i" transform="matrix(10,0,0,10,431.9,170.6)" />
+<use xlink:href="#f1_26" transform="matrix(10,0,0,10,435.8,170.6)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,440,170.6)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,445.9,170.6)" />
+<use xlink:href="#f1_1i" transform="matrix(10,0,0,10,453.6,170.6)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,463.7,170.6)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,470.5,170.6)" />
+<use xlink:href="#f1_1z" transform="matrix(10,0,0,10,477.3,170.6)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,484.1,170.6)" />
+</g>
+</g>
+<text x="230" y="170" class="s2_2">d3.js, redux.js , ngredux.js, Node.js, React </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f1_1g" transform="matrix(10,0,0,10,230.2,207.2)" />
+<use xlink:href="#f1_18" transform="matrix(10,0,0,10,238.7,207.2)" />
+<use xlink:href="#f1_1g" transform="matrix(10,0,0,10,249.7,207.2)" />
+<use xlink:href="#f1_r" transform="matrix(10,0,0,10,258.2,207.2)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,265.8,207.2)" />
+<use xlink:href="#f1_1j" transform="matrix(10,0,0,10,273.5,207.2)" />
+<use xlink:href="#f1_2l" transform="matrix(10,0,0,10,281.9,207.2)" />
+<use xlink:href="#f1_29" transform="matrix(10,0,0,10,289.6,207.2)" />
+<use xlink:href="#f1_22" transform="matrix(10,0,0,10,301.4,207.2)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,306.5,207.2)" />
+<use xlink:href="#f1_2a" transform="matrix(10,0,0,10,314.2,207.2)" />
+<use xlink:href="#f1_2l" transform="matrix(10,0,0,10,321.8,207.2)" />
+<use xlink:href="#f1_o" transform="matrix(10,0,0,10,333.2,207.2)" />
+<use xlink:href="#f1_i" transform="matrix(10,0,0,10,340.9,207.2)" />
+<use xlink:href="#f1_k" transform="matrix(10,0,0,10,344.7,207.2)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,352.3,207.2)" />
+<use xlink:href="#f1_1n" transform="matrix(10,0,0,10,359.9,207.2)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,373.1,207.2)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,380.7,207.2)" />
+<use xlink:href="#f1_20" transform="matrix(10,0,0,10,385.8,207.2)" />
+<use xlink:href="#f1_1g" transform="matrix(10,0,0,10,393.5,207.2)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,401.9,207.2)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,407,207.2)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,413.8,207.2)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,419.7,207.2)" />
+</g>
+</g>
+<text x="230" y="207" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0" class="s2_2">PHP7, Symfony 4.0, WordPress </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f1_12" transform="matrix(10,0,0,10,230.2,243.9)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,240.4,243.9)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,247.2,243.9)" />
+<use xlink:href="#f1_24" transform="matrix(10,0,0,10,253.1,243.9)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,260.7,243.9)" />
+<use xlink:href="#f1_13" transform="matrix(10,0,0,10,268.4,243.9)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,278.5,243.9)" />
+<use xlink:href="#f1_13" transform="matrix(10,0,0,10,286.2,243.9)" />
+<use xlink:href="#f1_f" transform="matrix(10,0,0,10,296.3,243.9)" />
+<use xlink:href="#f1_f" transform="matrix(10,0,0,10,304.9,243.9)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,313.6,243.9)" />
+<use xlink:href="#f1_1g" transform="matrix(10,0,0,10,321.2,243.9)" />
+<use xlink:href="#f1_2l" transform="matrix(10,0,0,10,329.7,243.9)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,337.3,243.9)" />
+<use xlink:href="#f1_24" transform="matrix(10,0,0,10,341.5,243.9)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,349.2,243.9)" />
+<use xlink:href="#f1_2a" transform="matrix(10,0,0,10,356.8,243.9)" />
+</g>
+</g>
+<text x="230" y="243" class="s2_2">Bash, C, C++, Python </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f1_1d" transform="matrix(10,0,0,10,230.2,280.5)" />
+<use xlink:href="#f1_2l" transform="matrix(10,0,0,10,243.8,280.5)" />
+<use xlink:href="#f1_1j" transform="matrix(10,0,0,10,251.4,280.5)" />
+<use xlink:href="#f1_1h" transform="matrix(10,0,0,10,259.9,280.5)" />
+<use xlink:href="#f1_1c" transform="matrix(10,0,0,10,270.9,280.5)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,280.2,280.5)" />
+<use xlink:href="#f1_1d" transform="matrix(10,0,0,10,287.9,280.5)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,301.4,280.5)" />
+<use xlink:href="#f1_2a" transform="matrix(10,0,0,10,309.1,280.5)" />
+<use xlink:href="#f1_23" transform="matrix(10,0,0,10,316.7,280.5)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,324.3,280.5)" />
+<use xlink:href="#f1_14" transform="matrix(10,0,0,10,331.9,280.5)" />
+<use xlink:href="#f1_12" transform="matrix(10,0,0,10,343,280.5)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,353.1,280.5)" />
+<use xlink:href="#f1_16" transform="matrix(10,0,0,10,360.8,280.5)" />
+<use xlink:href="#f1_25" transform="matrix(10,0,0,10,369.3,280.5)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,373.5,280.5)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,378.6,280.5)" />
+<use xlink:href="#f1_12" transform="matrix(10,0,0,10,385.4,280.5)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,395.5,280.5)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,402.3,280.5)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,408.2,280.5)" />
+</g>
+</g>
+<text x="230" y="280" class="s2_2">MySQL, MongoDB, FireBase </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f0_15" transform="matrix(10,0,0,10,108.1,317.1)" />
+<use xlink:href="#f0_1m" transform="matrix(10,0,0,10,118.3,317.1)" />
+<use xlink:href="#f0_15" transform="matrix(10,0,0,10,129.3,317.1)" />
+<use xlink:href="#f0_1e" transform="matrix(10,0,0,10,139.5,317.1)" />
+<use xlink:href="#f0_1k" transform="matrix(10,0,0,10,150.5,317.1)" />
+<use xlink:href="#f0_1j" transform="matrix(10,0,0,10,160.7,317.1)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,173,317.1)" />
+<use xlink:href="#f0_1e" transform="matrix(10,0,0,10,184,317.1)" />
+<use xlink:href="#f0_14" transform="matrix(10,0,0,10,195,317.1)" />
+<use xlink:href="#f0_18" transform="matrix(10,0,0,10,209.9,317.1)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,221.8,317.1)" />
+<use xlink:href="#f0_13" transform="matrix(10,0,0,10,232.8,317.1)" />
+<use xlink:href="#f0_1b" transform="matrix(10,0,0,10,243.8,317.1)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,255.7,317.1)" />
+<use xlink:href="#f0_1k" transform="matrix(10,0,0,10,265.5,317.1)" />
+<use xlink:href="#f0_18" transform="matrix(10,0,0,10,275.7,317.1)" />
+<use xlink:href="#f0_1f" transform="matrix(10,0,0,10,287.6,317.1)" />
+<use xlink:href="#f0_1e" transform="matrix(10,0,0,10,299.5,317.1)" />
+<use xlink:href="#f0_1j" transform="matrix(10,0,0,10,310.5,317.1)" />
+</g>
+</g>
+<text x="108" y="317" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.1,0,0,0,0,0" class="s1_2">EVENTS AND HACKATHONS </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f1_m" transform="matrix(10,0,0,10,108.1,353.8)" />
+<use xlink:href="#f1_k" transform="matrix(10,0,0,10,115.8,353.8)" />
+<use xlink:href="#f1_l" transform="matrix(10,0,0,10,123.4,353.8)" />
+<use xlink:href="#f1_r" transform="matrix(10,0,0,10,131,353.8)" />
+<use xlink:href="#f1_2i" transform="matrix(10,0,0,10,266.1,353.8)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,273.8,353.8)" />
+<use xlink:href="#f1_28" transform="matrix(10,0,0,10,281.4,353.8)" />
+<use xlink:href="#f1_2h" transform="matrix(10,0,0,10,285.6,353.8)" />
+<use xlink:href="#f1_2a" transform="matrix(10,0,0,10,293.3,353.8)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,300.9,353.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,305.1,353.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,311.9,353.8)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,318.7,353.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,323.8,353.8)" />
+<use xlink:href="#f1_20" transform="matrix(10,0,0,10,330.5,353.8)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,342,353.8)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,348.7,353.8)" />
+<use xlink:href="#f1_1n" transform="matrix(10,0,0,10,356.8,353.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,370,353.8)" />
+<use xlink:href="#f1_11" transform="matrix(10,0,0,10,376.7,353.8)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,387.8,353.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,392.8,353.8)" />
+<use xlink:href="#f1_14" transform="matrix(10,0,0,10,399.6,353.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,410.6,353.8)" />
+<use xlink:href="#f1_2i" transform="matrix(10,0,0,10,417.4,353.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,425,353.8)" />
+<use xlink:href="#f1_28" transform="matrix(10,0,0,10,431.8,353.8)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,436.1,353.8)" />
+<use xlink:href="#f1_2c" transform="matrix(10,0,0,10,443.7,353.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,451.3,353.8)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,458.1,353.8)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,463.2,353.8)" />
+<use xlink:href="#f1_13" transform="matrix(10,0,0,10,472.9,353.8)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,483.1,353.8)" />
+<use xlink:href="#f1_2a" transform="matrix(10,0,0,10,490.7,353.8)" />
+<use xlink:href="#f1_22" transform="matrix(10,0,0,10,498.4,353.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,503.4,353.8)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,510.2,353.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,515.3,353.8)" />
+<use xlink:href="#f1_2a" transform="matrix(10,0,0,10,522.1,353.8)" />
+<use xlink:href="#f1_1z" transform="matrix(10,0,0,10,529.7,353.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,536.5,353.8)" />
+</g>
+</g>
+<text x="108" y="353" class="s2_2">2017 </text>
+<text x="266" y="353" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s2_2">volunteered at WeAreDevelopers Conference </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f1_24" transform="matrix(10,0,0,10,269.9,372.1)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,277.6,372.1)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,281.8,372.1)" />
+<use xlink:href="#f1_2c" transform="matrix(10,0,0,10,286.1,372.1)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,293.7,372.1)" />
+<use xlink:href="#f1_u" transform="matrix(10,0,0,10,299.6,372.1)" />
+<use xlink:href="#f1_j" transform="matrix(10,0,0,10,303.9,372.1)" />
+<use xlink:href="#f1_j" transform="matrix(10,0,0,10,308.1,372.1)" />
+<use xlink:href="#f1_2j" transform="matrix(10,0,0,10,312.3,372.1)" />
+<use xlink:href="#f1_2j" transform="matrix(10,0,0,10,323.4,372.1)" />
+<use xlink:href="#f1_2j" transform="matrix(10,0,0,10,334.4,372.1)" />
+<use xlink:href="#f1_i" transform="matrix(10,0,0,10,344.4,372.1)" />
+<use xlink:href="#f1_2l" transform="matrix(10,0,0,10,348.2,372.1)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,355.8,372.1)" />
+<use xlink:href="#f1_2h" transform="matrix(10,0,0,10,363.5,372.1)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,371.1,372.1)" />
+<use xlink:href="#f1_2h" transform="matrix(10,0,0,10,375.3,372.1)" />
+<use xlink:href="#f1_1y" transform="matrix(10,0,0,10,383,372.1)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,390.6,372.1)" />
+<use xlink:href="#f1_i" transform="matrix(10,0,0,10,397.4,372.1)" />
+<use xlink:href="#f1_1z" transform="matrix(10,0,0,10,401.2,372.1)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,408,372.1)" />
+<use xlink:href="#f1_29" transform="matrix(10,0,0,10,415.6,372.1)" />
+<use xlink:href="#f1_j" transform="matrix(10,0,0,10,427.5,372.1)" />
+<use xlink:href="#f1_2j" transform="matrix(10,0,0,10,431.7,372.1)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,442.7,372.1)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,449.5,372.1)" />
+<use xlink:href="#f1_1z" transform="matrix(10,0,0,10,453.7,372.1)" />
+<use xlink:href="#f1_24" transform="matrix(10,0,0,10,460.5,372.1)" />
+<use xlink:href="#f1_z" transform="matrix(10,0,0,10,468.1,372.1)" />
+<use xlink:href="#f1_2i" transform="matrix(10,0,0,10,474.9,372.1)" />
+<use xlink:href="#f1_x" transform="matrix(10,0,0,10,482.5,372.1)" />
+<use xlink:href="#f1_2d" transform="matrix(10,0,0,10,491.1,372.1)" />
+<use xlink:href="#f1_23" transform="matrix(10,0,0,10,498.8,372.1)" />
+<use xlink:href="#f1_p" transform="matrix(10,0,0,10,506.4,372.1)" />
+<use xlink:href="#f1_1p" transform="matrix(10,0,0,10,514,372.1)" />
+<use xlink:href="#f1_14" transform="matrix(10,0,0,10,525.1,372.1)" />
+<use xlink:href="#f1_2d" transform="matrix(10,0,0,10,536.1,372.1)" />
+<use xlink:href="#f1_1f" transform="matrix(10,0,0,10,543.7,372.1)" />
+<use xlink:href="#f1_h" transform="matrix(10,0,0,10,554.7,372.1)" />
+<use xlink:href="#f1_18" transform="matrix(10,0,0,10,559.8,372.1)" />
+<use xlink:href="#f1_27" transform="matrix(10,0,0,10,570.8,372.1)" />
+<use xlink:href="#f1_23" transform="matrix(10,0,0,10,578.5,372.1)" />
+</g>
+</g>
+<text x="269" y="372" dx="0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s2_2">https://www.youtube.com/watch?v=qg5YDqO-Hkg </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f1_m" transform="matrix(10,0,0,10,108.1,411)" />
+<use xlink:href="#f1_k" transform="matrix(10,0,0,10,115.8,411)" />
+<use xlink:href="#f1_l" transform="matrix(10,0,0,10,123.4,411)" />
+<use xlink:href="#f1_s" transform="matrix(10,0,0,10,131,411)" />
+<use xlink:href="#f1_1i" transform="matrix(10,0,0,10,266.1,411)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,276.3,411)" />
+<use xlink:href="#f1_22" transform="matrix(10,0,0,10,283.1,411)" />
+<use xlink:href="#f1_2h" transform="matrix(10,0,0,10,288.2,411)" />
+<use xlink:href="#f1_23" transform="matrix(10,0,0,10,295.8,411)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,303.4,411)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,310.2,411)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,317,411)" />
+<use xlink:href="#f1_13" transform="matrix(10,0,0,10,322.9,411)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,333.1,411)" />
+<use xlink:href="#f1_20" transform="matrix(10,0,0,10,340.7,411)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,348.3,411)" />
+<use xlink:href="#f1_18" transform="matrix(10,0,0,10,358.9,411)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,369.9,411)" />
+<use xlink:href="#f1_1z" transform="matrix(10,0,0,10,376.7,411)" />
+<use xlink:href="#f1_27" transform="matrix(10,0,0,10,383.5,411)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,391.1,411)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,397.9,411)" />
+<use xlink:href="#f1_24" transform="matrix(10,0,0,10,402.1,411)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,409.8,411)" />
+<use xlink:href="#f1_2a" transform="matrix(10,0,0,10,417.4,411)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,428.8,411)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,435.6,411)" />
+<use xlink:href="#f1_2j" transform="matrix(12,0,0,12,443.7,411)" />
+</g>
+</g>
+<text x="108" y="411" class="s2_2">2018 </text>
+<text x="266" y="411" class="s2_2">RefugeesCode Hackathon at </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f1_21" transform="matrix(12,0,0,12,456.9,411)" />
+<use xlink:href="#f1_1o" transform="matrix(12,0,0,12,465,411)" />
+<use xlink:href="#f1_21" transform="matrix(12,0,0,12,478.2,411)" />
+<use xlink:href="#f1_28" transform="matrix(12,0,0,12,486.4,411)" />
+<use xlink:href="#f1_21" transform="matrix(12,0,0,12,491.5,411)" />
+<use xlink:href="#f1_2e" transform="matrix(12,0,0,12,499.6,411)" />
+<use xlink:href="#f1_1x" transform="matrix(12,0,0,12,505.7,411)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,513.8,411)" />
+<use xlink:href="#f1_21" transform="matrix(12,0,0,12,518.9,411)" />
+</g>
+</g>
+<text x="443" y="411" class="s3_2">weXelerate </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f1_24" transform="matrix(10,0,0,10,268.4,432.8)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,276,432.8)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,280.3,432.8)" />
+<use xlink:href="#f1_2c" transform="matrix(10,0,0,10,284.5,432.8)" />
+<use xlink:href="#f1_2f" transform="matrix(10,0,0,10,292.2,432.8)" />
+<use xlink:href="#f1_u" transform="matrix(10,0,0,10,298.1,432.8)" />
+<use xlink:href="#f1_j" transform="matrix(10,0,0,10,302.3,432.8)" />
+<use xlink:href="#f1_j" transform="matrix(10,0,0,10,306.6,432.8)" />
+<use xlink:href="#f1_2j" transform="matrix(10,0,0,10,310.8,432.8)" />
+<use xlink:href="#f1_2j" transform="matrix(10,0,0,10,321.8,432.8)" />
+<use xlink:href="#f1_2j" transform="matrix(10,0,0,10,332.9,432.8)" />
+<use xlink:href="#f1_i" transform="matrix(10,0,0,10,342.9,432.8)" />
+<use xlink:href="#f1_2j" transform="matrix(10,0,0,10,346.7,432.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,357.7,432.8)" />
+<use xlink:href="#f1_2k" transform="matrix(10,0,0,10,364.5,432.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,372.1,432.8)" />
+<use xlink:href="#f1_28" transform="matrix(10,0,0,10,378.9,432.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,383.1,432.8)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,389.9,432.8)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,395,432.8)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,401.8,432.8)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,406,432.8)" />
+<use xlink:href="#f1_i" transform="matrix(10,0,0,10,412.8,432.8)" />
+<use xlink:href="#f1_1z" transform="matrix(10,0,0,10,416.6,432.8)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,423.4,432.8)" />
+<use xlink:href="#f1_29" transform="matrix(10,0,0,10,431,432.8)" />
+<use xlink:href="#f1_j" transform="matrix(10,0,0,10,442.9,432.8)" />
+</g>
+</g>
+<text x="268" y="432" dx="0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s2_2">https://www.wexelerate.com/</text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f0_1f" transform="matrix(10,0,0,10,108.1,514)" />
+<use xlink:href="#f0_2c" transform="matrix(10,0,0,10,120,514)" />
+<use xlink:href="#f0_21" transform="matrix(10,0,0,10,128.5,514)" />
+<use xlink:href="#f0_2a" transform="matrix(10,0,0,10,135.3,514)" />
+<use xlink:href="#f0_1j" transform="matrix(10,0,0,10,143.8,514)" />
+<use xlink:href="#f0_2b" transform="matrix(10,0,0,10,152.2,514)" />
+<use xlink:href="#f0_2h" transform="matrix(10,0,0,10,159.9,514)" />
+<use xlink:href="#f0_2e" transform="matrix(10,0,0,10,168.4,514)" />
+<use xlink:href="#f0_1z" transform="matrix(10,0,0,10,174.8,514)" />
+<use xlink:href="#f0_21" transform="matrix(10,0,0,10,181.6,514)" />
+<use xlink:href="#f0_h" transform="matrix(10,0,0,10,188.4,514)" />
+<use xlink:href="#f0_1g" transform="matrix(10,0,0,10,193.5,514)" />
+<use xlink:href="#f0_2e" transform="matrix(10,0,0,10,202.8,514)" />
+<use xlink:href="#f0_2b" transform="matrix(10,0,0,10,209.3,514)" />
+<use xlink:href="#f0_26" transform="matrix(10,0,0,10,216.9,514)" />
+<use xlink:href="#f0_21" transform="matrix(10,0,0,10,222,514)" />
+<use xlink:href="#f0_1z" transform="matrix(10,0,0,10,228.8,514)" />
+<use xlink:href="#f0_2g" transform="matrix(10,0,0,10,235.6,514)" />
+<use xlink:href="#f0_2f" transform="matrix(10,0,0,10,240.6,514)" />
+<use xlink:href="#f0_1f" transform="matrix(10,0,0,10,250.4,514)" />
+<use xlink:href="#f0_2a" transform="matrix(10,0,0,10,262.3,514)" />
+<use xlink:href="#f0_1k" transform="matrix(10,0,0,10,274.6,514)" />
+<use xlink:href="#f0_24" transform="matrix(10,0,0,10,284.7,514)" />
+<use xlink:href="#f0_21" transform="matrix(10,0,0,10,293.2,514)" />
+<use xlink:href="#f0_19" transform="matrix(10,0,0,10,303.8,514)" />
+<use xlink:href="#f0_2a" transform="matrix(10,0,0,10,309.7,514)" />
+<use xlink:href="#f0_2g" transform="matrix(10,0,0,10,318.2,514)" />
+<use xlink:href="#f0_21" transform="matrix(10,0,0,10,323.3,514)" />
+<use xlink:href="#f0_2e" transform="matrix(10,0,0,10,330.1,514)" />
+<use xlink:href="#f0_2a" transform="matrix(10,0,0,10,336.9,514)" />
+<use xlink:href="#f0_21" transform="matrix(10,0,0,10,345.3,514)" />
+<use xlink:href="#f0_2g" transform="matrix(10,0,0,10,352.1,514)" />
+<use xlink:href="#f0_11" transform="matrix(10,0,0,10,361,514)" />
+<use xlink:href="#f0_2a" transform="matrix(10,0,0,10,372,514)" />
+<use xlink:href="#f0_20" transform="matrix(10,0,0,10,380.5,514)" />
+<use xlink:href="#f0_1g" transform="matrix(10,0,0,10,392.8,514)" />
+<use xlink:href="#f0_2b" transform="matrix(10,0,0,10,402.1,514)" />
+<use xlink:href="#f0_2e" transform="matrix(10,0,0,10,409.8,514)" />
+<use xlink:href="#f0_2g" transform="matrix(10,0,0,10,416.5,514)" />
+<use xlink:href="#f0_22" transform="matrix(10,0,0,10,421.6,514)" />
+<use xlink:href="#f0_2b" transform="matrix(10,0,0,10,426.7,514)" />
+<use xlink:href="#f0_28" transform="matrix(10,0,0,10,434.3,514)" />
+<use xlink:href="#f0_25" transform="matrix(10,0,0,10,438.6,514)" />
+<use xlink:href="#f0_2b" transform="matrix(10,0,0,10,442.8,514)" />
+</g>
+</g>
+<text x="108" y="514" dx="0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s1_2">OpenSource-Projects On The Internet And Portfolio</text>
+<g clip-path="url(#c1_2)">
+<g fill="#000080" >
+<use xlink:href="#f1_24" transform="matrix(12,0,0,12,108.1,556.4)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,117.3,556.4)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,122.4,556.4)" />
+<use xlink:href="#f1_2c" transform="matrix(12,0,0,12,127.5,556.4)" />
+<use xlink:href="#f1_2f" transform="matrix(12,0,0,12,136.6,556.4)" />
+<use xlink:href="#f1_u" transform="matrix(12,0,0,12,143.8,556.4)" />
+<use xlink:href="#f1_j" transform="matrix(12,0,0,12,148.9,556.4)" />
+<use xlink:href="#f1_j" transform="matrix(12,0,0,12,153.9,556.4)" />
+<use xlink:href="#f1_29" transform="matrix(12,0,0,12,159,556.4)" />
+<use xlink:href="#f1_1x" transform="matrix(12,0,0,12,173.3,556.4)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,181.4,556.4)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,186.5,556.4)" />
+<use xlink:href="#f1_24" transform="matrix(12,0,0,12,191.6,556.4)" />
+<use xlink:href="#f1_25" transform="matrix(12,0,0,12,200.7,556.4)" />
+<use xlink:href="#f1_1x" transform="matrix(12,0,0,12,205.8,556.4)" />
+<use xlink:href="#f1_2f" transform="matrix(12,0,0,12,214,556.4)" />
+<use xlink:href="#f1_28" transform="matrix(12,0,0,12,221.1,556.4)" />
+<use xlink:href="#f1_25" transform="matrix(12,0,0,12,226.2,556.4)" />
+<use xlink:href="#f1_2f" transform="matrix(12,0,0,12,231.3,556.4)" />
+<use xlink:href="#f1_2m" transform="matrix(12,0,0,12,238.4,556.4)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,246.5,556.4)" />
+<use xlink:href="#f1_i" transform="matrix(12,0,0,12,251.6,556.4)" />
+<use xlink:href="#f1_23" transform="matrix(12,0,0,12,256.2,556.4)" />
+<use xlink:href="#f1_25" transform="matrix(12,0,0,12,265.4,556.4)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,270.4,556.4)" />
+<use xlink:href="#f1_24" transform="matrix(12,0,0,12,275.5,556.4)" />
+<use xlink:href="#f1_2h" transform="matrix(12,0,0,12,284.7,556.4)" />
+<use xlink:href="#f1_1y" transform="matrix(12,0,0,12,293.9,556.4)" />
+<use xlink:href="#f1_i" transform="matrix(12,0,0,12,303,556.4)" />
+<use xlink:href="#f1_25" transform="matrix(12,0,0,12,307.6,556.4)" />
+<use xlink:href="#f1_2b" transform="matrix(12,0,0,12,312.7,556.4)" />
+<use xlink:href="#f1_j" transform="matrix(12,0,0,12,321.8,556.4)" />
+</g>
+</g>
+<text x="108" y="556" class="s3_2">https://matthiasliszt.github.io/ </text>
+<g clip-path="url(#c1_2)">
+<g fill="#000000" >
+<use xlink:href="#f1_c" transform="matrix(10,0,0,10,334.6,556.4)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,339.6,556.4)" />
+<use xlink:href="#f1_28" transform="matrix(10,0,0,10,347.3,556.4)" />
+<use xlink:href="#f1_20" transform="matrix(10,0,0,10,351.5,556.4)" />
+<use xlink:href="#f1_2c" transform="matrix(10,0,0,10,363,556.4)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,370.6,556.4)" />
+<use xlink:href="#f1_2e" transform="matrix(10,0,0,10,378.2,556.4)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,383.3,556.4)" />
+<use xlink:href="#f1_22" transform="matrix(10,0,0,10,387.5,556.4)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,392.6,556.4)" />
+<use xlink:href="#f1_28" transform="matrix(10,0,0,10,400.2,556.4)" />
+<use xlink:href="#f1_25" transform="matrix(10,0,0,10,404.5,556.4)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,408.7,556.4)" />
+<use xlink:href="#f1_g" transform="matrix(10,0,0,10,420.2,556.4)" />
+<use xlink:href="#f1_2a" transform="matrix(10,0,0,10,427.8,556.4)" />
+<use xlink:href="#f1_2b" transform="matrix(10,0,0,10,435.4,556.4)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,443.1,556.4)" />
+<use xlink:href="#f1_2l" transform="matrix(10,0,0,10,451.1,556.4)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,458.7,556.4)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,465.5,556.4)" />
+<use xlink:href="#f1_2h" transform="matrix(10,0,0,10,473.6,556.4)" />
+<use xlink:href="#f1_2c" transform="matrix(10,0,0,10,481.2,556.4)" />
+<use xlink:href="#f1_20" transform="matrix(10,0,0,10,488.8,556.4)" />
+<use xlink:href="#f1_1x" transform="matrix(10,0,0,10,496.5,556.4)" />
+<use xlink:href="#f1_2g" transform="matrix(10,0,0,10,503.2,556.4)" />
+<use xlink:href="#f1_21" transform="matrix(10,0,0,10,507.5,556.4)" />
+<use xlink:href="#f1_20" transform="matrix(10,0,0,10,514.2,556.4)" />
+<use xlink:href="#f1_d" transform="matrix(10,0,0,10,521.9,556.4)" />
+</g>
+</g>
+<text x="334" y="556" class="s2_2">(old portfolio , not yet updated)</text>
+<g clip-path="url(#c1_2)">
+<g fill="#000080" >
+<use xlink:href="#f1_24" transform="matrix(12,0,0,12,108.1,596.5)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,117.3,596.5)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,122.4,596.5)" />
+<use xlink:href="#f1_2c" transform="matrix(12,0,0,12,127.5,596.5)" />
+<use xlink:href="#f1_2f" transform="matrix(12,0,0,12,136.6,596.5)" />
+<use xlink:href="#f1_u" transform="matrix(12,0,0,12,143.8,596.5)" />
+<use xlink:href="#f1_j" transform="matrix(12,0,0,12,148.9,596.5)" />
+<use xlink:href="#f1_j" transform="matrix(12,0,0,12,153.9,596.5)" />
+<use xlink:href="#f1_23" transform="matrix(12,0,0,12,159,596.5)" />
+<use xlink:href="#f1_25" transform="matrix(12,0,0,12,168.2,596.5)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,173.3,596.5)" />
+<use xlink:href="#f1_24" transform="matrix(12,0,0,12,178.4,596.5)" />
+<use xlink:href="#f1_2h" transform="matrix(12,0,0,12,187.5,596.5)" />
+<use xlink:href="#f1_1y" transform="matrix(12,0,0,12,196.7,596.5)" />
+<use xlink:href="#f1_i" transform="matrix(12,0,0,12,205.8,596.5)" />
+<use xlink:href="#f1_1z" transform="matrix(12,0,0,12,210.4,596.5)" />
+<use xlink:href="#f1_2b" transform="matrix(12,0,0,12,218.6,596.5)" />
+<use xlink:href="#f1_29" transform="matrix(12,0,0,12,227.7,596.5)" />
+<use xlink:href="#f1_j" transform="matrix(12,0,0,12,242,596.5)" />
+<use xlink:href="#f1_1d" transform="matrix(12,0,0,12,247.1,596.5)" />
+<use xlink:href="#f1_1x" transform="matrix(12,0,0,12,263.3,596.5)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,271.5,596.5)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,276.6,596.5)" />
+<use xlink:href="#f1_24" transform="matrix(12,0,0,12,281.6,596.5)" />
+<use xlink:href="#f1_25" transform="matrix(12,0,0,12,290.8,596.5)" />
+<use xlink:href="#f1_1x" transform="matrix(12,0,0,12,295.9,596.5)" />
+<use xlink:href="#f1_2f" transform="matrix(12,0,0,12,304,596.5)" />
+<use xlink:href="#f1_1c" transform="matrix(12,0,0,12,311.2,596.5)" />
+<use xlink:href="#f1_25" transform="matrix(12,0,0,12,322.3,596.5)" />
+<use xlink:href="#f1_2f" transform="matrix(12,0,0,12,327.4,596.5)" />
+<use xlink:href="#f1_2m" transform="matrix(12,0,0,12,334.6,596.5)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,342.7,596.5)" />
+</g>
+</g>
+<text x="108" y="596" class="s3_2">https://github.com/MatthiasLiszt</text>
+<g clip-path="url(#c1_2)">
+<g fill="#000080" >
+<use xlink:href="#f1_24" transform="matrix(12,0,0,12,108.1,640)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,117.3,640)" />
+<use xlink:href="#f1_2g" transform="matrix(12,0,0,12,122.4,640)" />
+<use xlink:href="#f1_2c" transform="matrix(12,0,0,12,127.5,640)" />
+<use xlink:href="#f1_2f" transform="matrix(12,0,0,12,136.6,640)" />
+<use xlink:href="#f1_u" transform="matrix(12,0,0,12,143.8,640)" />
+<use xlink:href="#f1_j" transform="matrix(12,0,0,12,148.9,640)" />
+<use xlink:href="#f1_j" transform="matrix(12,0,0,12,153.9,640)" />
+<use xlink:href="#f1_1z" transform="matrix(12,0,0,12,159,640)" />
+<use xlink:href="#f1_2b" transform="matrix(12,0,0,12,167.2,640)" />
+<use xlink:href="#f1_20" transform="matrix(12,0,0,12,176.3,640)" />
+<use xlink:href="#f1_25" transform="matrix(12,0,0,12,185.5,640)" />
+<use xlink:href="#f1_2a" transform="matrix(12,0,0,12,190.6,640)" />
+<use xlink:href="#f1_23" transform="matrix(12,0,0,12,199.7,640)" />
+<use xlink:href="#f1_o" transform="matrix(12,0,0,12,208.9,640)" />
+<use xlink:href="#f1_28" transform="matrix(12,0,0,12,218,640)" />
+<use xlink:href="#f1_25" transform="matrix(12,0,0,12,223.1,640)" />
+<use xlink:href="#f1_22" transform="matrix(12,0,0,12,228.2,640)" />
+<use xlink:href="#f1_21" transform="matrix(12,0,0,12,234.3,640)" />
+<use xlink:href="#f1_1y" transform="matrix(12,0,0,12,242.5,640)" />
+<use xlink:href="#f1_28" transform="matrix(12,0,0,12,251.6,640)" />
+<use xlink:href="#f1_2b" transform="matrix(12,0,0,12,256.7,640)" />
+<use xlink:href="#f1_23" transform="matrix(12,0,0,12,265.9,640)" />
+<use xlink:href="#f1_i" transform="matrix(12,0,0,12,275,640)" />
+<use xlink:href="#f1_2j" transform="matrix(12,0,0,12,279.6,640)" />
+<use xlink:href="#f1_2b" transform="matrix(12,0,0,12,292.8,640)" />
+<use xlink:href="#f1_2e" transform="matrix(12,0,0,12,302,640)" />
+<use xlink:href="#f1_20" transform="matrix(12,0,0,12,308.1,640)" />
+<use xlink:href="#f1_2c" transform="matrix(12,0,0,12,317.2,640)" />
+<use xlink:href="#f1_2e" transform="matrix(12,0,0,12,326.4,640)" />
+<use xlink:href="#f1_21" transform="matrix(12,0,0,12,332.5,640)" />
+<use xlink:href="#f1_2f" transform="matrix(12,0,0,12,340.6,640)" />
+<use xlink:href="#f1_2f" transform="matrix(12,0,0,12,347.8,640)" />
+<use xlink:href="#f1_i" transform="matrix(12,0,0,12,354.9,640)" />
+<use xlink:href="#f1_1z" transform="matrix(12,0,0,12,359.5,640)" />
+<use xlink:href="#f1_2b" transform="matrix(12,0,0,12,367.6,640)" />
+<use xlink:href="#f1_29" transform="matrix(12,0,0,12,376.8,640)" />
+</g>
+</g>
+<text x="108" y="639" class="s3_2">https://coding4lifeblog.wordpress.com</text>
+<path d="M107.6,557.6H327.4v1.1H107.6v-1.1Z" class="g1_2" />
+<path d="M107.6,597.6H348v1.2H107.6v-1.2Z" class="g1_2" />
+<path d="M107.6,641.1H391.5v1.2H107.6v-1.2Z" class="g1_2" />
+
+<defs>
+<path d="M452,474c0,0,104,0,151,52c0,0,47,53,47,178c0,0,0,119,-45,167c0,0,-44,47,-156,47H390V474ZM36,0V54L154,75V926L26,946v54H467c0,0,213,0,318,-71c0,0,105,-71,105,-224c0,0,0,-313,-366,-313H390V75L557,54V0Z" 
+id="f0_1g"
+transform="scale(0.001,-0.001)" />
+
+<path d="M498,506c0,0,115,0,164,47c0,0,48,48,48,166c0,0,0,112,-46,156c0,0,-46,43,-169,43H390V506ZM793,0L514,423H390V75L518,54V0H36V54L154,75V926L26,946v54H504c0,0,221,0,330,-68c0,0,109,-68,109,-212c0,0,0,-214,-201,-276L1009,74L1117,54V0Z" 
+id="f0_1i"
+transform="scale(0.001,-0.001)" />
+
+<path d="M595,60c0,0,141,0,206,102c0,0,65,102,65,339c0,0,0,236,-65,336c0,0,-65,99,-206,99c0,0,-142,0,-207,-99c0,0,-66,-100,-66,-336c0,0,0,-238,66,-339c0,0,65,-102,207,-102Zm0,-74c0,0,-253,0,-387,130C208,116,75,246,75,501c0,0,0,510,520,510c0,0,256,0,387,-129c0,0,132,-130,132,-381c0,0,0,-254,-133,-385C981,116,848,-14,595,-14Z" 
+id="f0_1f"
+transform="scale(0.001,-0.001)" />
+
+<path d="M614,-14c0,0,-163,0,-285,59c0,0,-122,60,-188,174c0,0,-66,114,-66,269c0,0,0,252,143,387c0,0,144,136,410,136c0,0,65,0,118,-5c0,0,54,-5,100,-14c0,0,46,-9,170,-44V718H949L931,848c0,0,-59,40,-130,62c0,0,-71,23,-146,23c0,0,-174,0,-253,-108c0,0,-80,-108,-80,-335c0,0,0,-211,84,-319c0,0,84,-109,243,-109c0,0,87,0,165,26V377L686,397v55h461V397l-98,-20V52C1049,52,956,22,834,4C834,4,712,-14,614,-14Z" 
+id="f0_17"
+transform="scale(0.001,-0.001)" />
+
+<path d="M639,416L478,858L313,416ZM15,0V54L90,75l355,934H662L1016,75l76,-21V0H647V54L762,75L667,333H283L191,75L319,54V0Z" 
+id="f0_11"
+transform="scale(0.001,-0.001)" />
+
+<path d="M617,0L248,845V75L382,54V0H26V54L154,75V926L26,946v54H419L705,342l292,658h401V946L1270,926V74L1398,54V0H900V54l135,20V845L658,0Z" 
+id="f0_1d"
+transform="scale(0.001,-0.001)" />
+
+<path d="M51,0V55L180,75V926L51,946v54H543V946L415,926V75L543,55V0Z" 
+id="f0_19"
+transform="scale(0.001,-0.001)" />
+
+<path d="M868,0L251,804V75L385,54V0H29V54L157,75V926L29,946v54H371L862,361V926L727,946v54h356V946L955,926V0Z" 
+id="f0_1e"
+transform="scale(0.001,-0.001)" />
+
+<path d="M26,0V54L154,75V926L27,946v54H544V946L389,926V79H593c0,0,159,0,234,15l61,208h67L927,0Z" 
+id="f0_1c"
+transform="scale(0.001,-0.001)" />
+
+<path d="M566,-14c0,0,-200,0,-308,93c0,0,-107,94,-107,271V926L38,946v54H515V946L386,926V339c0,0,0,-120,61,-184c0,0,61,-64,178,-64c0,0,112,0,173,62c0,0,61,63,61,185V926L725,946v54h340V946L952,926V344c0,0,0,-174,-100,-266c0,0,-100,-92,-286,-92Z" 
+id="f0_1l"
+transform="scale(0.001,-0.001)" />
+
+<path d="M26,0V54L154,75V926L26,946v54H878V746H810L786,908c0,0,-83,10,-241,10H389V551H651l23,111h67V355H674L651,468H389V82H578c0,0,193,0,252,12l43,185h68L927,0Z" 
+id="f0_15"
+transform="scale(0.001,-0.001)" />
+
+<path d="M410,-14c0,0,-86,0,-175,14C235,0,145,14,81,38V307h66L181,146c0,0,31,-36,94,-61c0,0,64,-24,132,-24c0,0,214,0,214,176c0,0,0,55,-41,93c0,0,-41,38,-128,68c0,0,-128,42,-185,68c0,0,-56,27,-95,63c0,0,-38,36,-62,87c0,0,-23,51,-23,125c0,0,0,132,90,201c0,0,90,69,263,69c0,0,125,0,278,-32V741H651L618,878c0,0,-76,55,-178,55c0,0,-92,0,-141,-33c0,0,-49,-34,-49,-104c0,0,0,-50,41,-86c0,0,41,-35,128,-63c0,0,171,-56,235,-97c0,0,64,-41,97,-103c0,0,34,-61,34,-143c0,0,0,-318,-375,-318Z" 
+id="f0_1j"
+transform="scale(0.001,-0.001)" />
+
+<path d="M20,-236v69c0,0,47,14,81,37c0,0,33,24,52,52c0,0,18,28,18,53c0,0,0,17,-11,28c0,0,-12,12,-45,30c0,0,-57,30,-57,93c0,0,0,48,34,74c0,0,33,25,85,25c0,0,63,0,105,-41c0,0,42,-41,42,-105c0,0,0,-115,-78,-195c0,0,-77,-81,-226,-120Z" 
+id="f0_g"
+transform="scale(0.001,-0.001)" />
+
+<path d="M559,78c0,0,87,0,129,53c0,0,42,53,42,161c0,0,0,99,-49,147c0,0,-50,49,-163,49H389V82c0,0,108,-4,170,-4ZM499,570c0,0,80,0,118,42c0,0,38,42,38,141c0,0,0,88,-38,126c0,0,-37,39,-124,39H389V570ZM561,-3L221,0H25V54L154,75V926L25,946v54H511c0,0,199,0,294,-53c0,0,95,-53,95,-173c0,0,0,-89,-56,-154c0,0,-56,-65,-150,-85c0,0,139,-14,211,-76c0,0,71,-61,71,-167c0,0,0,-146,-107,-221C869,71,762,-3,561,-3Z" 
+id="f0_12"
+transform="scale(0.001,-0.001)" />
+
+<path d="M36,0V54L154,75V926L26,946v54H860V731H790L766,908c0,0,-36,5,-121,8c0,0,-84,2,-133,2H389V508H633l23,127h67V298H656L633,426H389V75L556,54V0Z" 
+id="f0_16"
+transform="scale(0.001,-0.001)" />
+
+<path d="M440,-22L109,926L22,946v54H471V946L354,926L567,330L801,915h93L1129,332l177,594l-126,20v54h324V946l-87,-20L1120,-22h-92L779,594L532,-22Z" 
+id="f0_1n"
+transform="scale(0.001,-0.001)" />
+
+<path d="M850,0L476,482L389,407V75L533,54V0H26V54L154,75V926L26,946v54H518V946L389,926V519L845,926l-92,20v54h343V946L974,926L643,635L1083,75l93,-21V0Z" 
+id="f0_1b"
+transform="scale(0.001,-0.001)" />
+
+<path d="M519,79c0,0,97,0,153,42c0,0,57,42,83,131c0,0,26,89,26,248c0,0,0,216,-79,317c0,0,-79,101,-257,101H389V85c0,0,72,-6,130,-6ZM533,-2L198,0H27V54L155,75V926L27,946v54H502c0,0,269,0,398,-122c0,0,129,-122,129,-372c0,0,0,-258,-123,-383C906,123,783,-2,533,-2Z" 
+id="f0_14"
+transform="scale(0.001,-0.001)" />
+
+<path d="M231,0V54L390,75V921H352c0,0,-171,0,-240,-15L92,721H24v279H996V721H927L907,906c0,0,-62,14,-245,14H626V75L785,54V0Z" 
+id="f0_1k"
+transform="scale(0.001,-0.001)" />
+
+<path d="M608,-14c0,0,-251,0,-392,133C216,119,75,252,75,488c0,0,0,257,134,390c0,0,135,133,398,133c0,0,174,0,361,-50l4,-240H905L884,866c0,0,-98,67,-229,67c0,0,-173,0,-253,-108c0,0,-80,-108,-80,-334c0,0,0,-210,84,-319c0,0,83,-110,243,-110c0,0,84,0,147,23c0,0,63,22,99,53l24,164h68L982,48C982,48,915,22,808,4C808,4,700,-14,608,-14Z" 
+id="f0_13"
+transform="scale(0.001,-0.001)" />
+
+<path d="M191,-20c0,0,-51,0,-88,34c0,0,-36,36,-36,88c0,0,0,52,36,88c0,0,36,36,88,36c0,0,51,0,88,-36c0,0,36,-36,36,-88c0,0,0,-51,-36,-87c0,0,-36,-35,-88,-35Z" 
+id="f0_i"
+transform="scale(0.001,-0.001)" />
+
+<path d="M186,-14c0,0,-95,0,-154,22V190H81L104,86c0,0,14,-17,40,-27c0,0,26,-9,57,-9c0,0,105,0,105,141V941L178,961v39H562V961L449,941V322c0,0,0,-100,-30,-174c0,0,-31,-75,-93,-119c0,0,-63,-43,-140,-43Z" 
+id="f1_1a"
+transform="scale(0.001,-0.001)" />
+
+<path d="M284,67c0,0,51,0,88,12c0,0,37,12,74,29V357l-98,-3c0,0,-100,-3,-135,-38c0,0,-35,-35,-35,-117c0,0,0,-132,106,-132ZM233,-14c0,0,-179,0,-179,208c0,0,0,70,27,116c0,0,27,46,87,70c0,0,60,24,173,27l105,3V519c0,0,0,72,-26,107c0,0,-27,34,-82,34c0,0,-75,0,-137,-35L176,538H134V691c0,0,121,26,213,26c0,0,115,0,169,-47c0,0,54,-47,54,-144V52L657,34V0H465L451,70c0,0,-85,-84,-218,-84Z" 
+id="f1_1x"
+transform="scale(0.001,-0.001)" />
+
+<path d="M360,-14L72,649L0,668v33H327V668L216,647L420,164L615,649L504,668v33H764V668L697,652L416,-14Z" 
+id="f1_2i"
+transform="scale(0.001,-0.001)" />
+
+<path d="M410,-14c0,0,-80,0,-162,14c0,0,-81,14,-144,38V270h48L178,135c0,0,28,-36,95,-62c0,0,68,-27,134,-27c0,0,104,0,163,53c0,0,58,53,58,147c0,0,0,54,-23,89c0,0,-22,35,-59,59c0,0,-37,24,-84,41c0,0,-47,17,-97,34c0,0,-49,17,-96,38c0,0,-47,21,-84,53c0,0,-37,32,-60,79c0,0,-23,48,-23,117c0,0,0,119,90,187c0,0,89,68,248,68c0,0,121,0,263,-32V771H654L628,893c0,0,-76,55,-188,55c0,0,-100,0,-156,-40c0,0,-56,-41,-56,-112c0,0,0,-49,22,-81c0,0,23,-32,60,-55c0,0,37,-22,84,-39c0,0,48,-16,97,-34c0,0,50,-17,97,-39c0,0,48,-22,85,-56c0,0,36,-34,59,-83c0,0,23,-49,23,-120c0,0,0,-145,-89,-224c0,0,-89,-79,-256,-79Z" 
+id="f1_1j"
+transform="scale(0.001,-0.001)" />
+
+<path d="M399,-14c0,0,-341,0,-341,370c0,0,0,175,87,269c0,0,87,95,249,95c0,0,101,0,220,-23V501H573L541,625c0,0,-62,35,-149,35c0,0,-200,0,-200,-304c0,0,0,-158,61,-226c0,0,61,-67,189,-67c0,0,109,0,189,25V43C631,43,595,16,530,1c0,0,-64,-15,-131,-15Z" 
+id="f1_1z"
+transform="scale(0.001,-0.001)" />
+
+<path d="M31,0V34l88,18V649L31,668v33H235l7,-87c0,0,44,37,121,71c0,0,76,35,121,35h11V530H463l-43,82c0,0,-37,0,-88,-10c0,0,-52,-10,-89,-26V52L363,34V0Z" 
+id="f1_2e"
+transform="scale(0.001,-0.001)" />
+
+<path d="M32,0V34L151,52V649L52,668v33H275V52L395,34V0ZM201,850c0,0,-32,0,-56,24c0,0,-24,23,-24,56c0,0,0,34,24,58c0,0,24,24,56,24c0,0,34,0,58,-24c0,0,24,-24,24,-58c0,0,0,-33,-24,-56c0,0,-24,-24,-58,-24Z" 
+id="f1_25"
+transform="scale(0.001,-0.001)" />
+
+<path d="M382,44c0,0,188,0,188,315c0,0,0,143,-47,213c0,0,-46,69,-141,69c0,0,-87,0,-146,-24V57c0,0,67,-13,146,-13ZM25,-325v35l88,18V649L34,668v33H231l1,-41c0,0,31,27,84,43c0,0,53,17,107,17c0,0,134,0,208,-94c0,0,73,-93,73,-267c0,0,0,-178,-80,-276c0,0,-80,-97,-232,-97c0,0,-84,0,-160,16c0,0,4,-53,4,-84V-272l123,-18v-35Z" 
+id="f1_2c"
+transform="scale(0.001,-0.001)" />
+
+<path d="M249,-14c0,0,-71,0,-107,42c0,0,-35,42,-35,119V638H15v34l93,29l76,159h47V701H391V638H231V161c0,0,0,-49,22,-73c0,0,22,-25,57,-25c0,0,44,0,106,12V26C416,26,389,8,340,-2c0,0,-49,-12,-91,-12Z" 
+id="f1_2g"
+transform="scale(0.001,-0.001)" />
+
+<path d="M58,-234v58c0,0,131,41,131,125c0,0,0,15,-11,27c0,0,-11,12,-38,25C140,1,89,27,89,75c0,0,0,40,25,61c0,0,26,21,65,21c0,0,48,0,77,-34c0,0,30,-34,30,-86c0,0,0,-101,-60,-170c0,0,-59,-69,-168,-101Z" 
+id="f1_g"
+transform="scale(0.001,-0.001)" />
+
+<path d="M44,0V40L172,60V941L44,961v39H794V761H745L721,923c0,0,-83,10,-241,10H316V543H586l23,119h48V355H609L586,476H316V67H513c0,0,193,0,252,12l43,185h49L843,0Z" 
+id="f1_15"
+transform="scale(0.001,-0.001)" />
+
+<path d="M410,44c0,0,90,0,130,59c0,0,40,58,40,193c0,0,0,122,-38,176c0,0,-38,55,-122,55c0,0,-102,0,-217,-38c0,0,0,-227,51,-336c0,0,52,-109,156,-109Zm3,-58c0,0,-169,0,-258,131c0,0,-89,131,-89,377c0,0,0,161,47,278c0,0,47,117,131,178c0,0,85,61,196,61c0,0,109,0,217,-26V813H608L582,915c0,0,-25,13,-67,23c0,0,-41,10,-75,10c0,0,-109,0,-170,-105c0,0,-60,-106,-66,-309c0,0,121,64,244,64c0,0,132,0,201,-74c0,0,69,-74,69,-214c0,0,0,-156,-78,-240c0,0,-79,-84,-227,-84Z" 
+id="f1_q"
+transform="scale(0.001,-0.001)" />
+
+<path d="M681,416L504,902L333,416ZM15,0V40L128,60l341,949H611L965,60L1092,40V0H669V40L803,60L704,348H310L210,60L344,40V0Z" 
+id="f1_11"
+transform="scale(0.001,-0.001)" />
+
+<path d="M439,0V33l93,19V500c0,0,0,62,-30,97c0,0,-31,35,-94,35c0,0,-67,0,-165,-21V52L338,34V0H35V34l84,18V649L35,668v33H235l7,-57c0,0,57,33,122,54c0,0,65,22,108,22c0,0,91,0,137,-53c0,0,47,-53,47,-154V52L741,33V0Z" 
+id="f1_2a"
+transform="scale(0.001,-0.001)" />
+
+<path d="M359,-270c0,0,124,0,192,46c0,0,67,47,67,129c0,0,0,43,-26,67c0,0,-26,24,-79,24H242c0,0,-32,-27,-51,-69c0,0,-20,-41,-20,-77c0,0,0,-64,46,-92c0,0,46,-28,142,-28Zm11,561c0,0,81,0,115,47c0,0,34,47,34,141c0,0,0,100,-35,142c0,0,-35,42,-113,42c0,0,-78,0,-114,-43c0,0,-37,-42,-37,-141c0,0,0,-98,36,-143c0,0,36,-45,114,-45ZM359,-329c0,0,-143,0,-218,44c0,0,-75,43,-75,125c0,0,0,39,27,78c0,0,26,38,98,89c0,0,-43,14,-72,48c0,0,-29,35,-29,74L208,262c0,0,-118,55,-118,217c0,0,0,115,73,178c0,0,73,63,211,63c0,0,28,0,71,-6c0,0,44,-6,67,-13l165,83l26,-32L599,644c0,0,50,-56,50,-165c0,0,0,-120,-72,-182c0,0,-73,-62,-208,-62c0,0,-62,0,-114,11L208,148c0,0,2,-13,29,-24c0,0,27,-12,67,-12H512c0,0,113,0,168,-49c0,0,55,-49,55,-134c0,0,0,-79,-44,-137c0,0,-43,-58,-128,-90c0,0,-84,-31,-204,-31Z" 
+id="f1_23"
+transform="scale(0.001,-0.001)" />
+
+<path d="M289,-14c0,0,-179,0,-179,205V649L20,668v33H233V200c0,0,0,-128,120,-128c0,0,92,0,173,23V649L420,668v33H649V52L738,34V0H533l-6,57C527,57,474,28,405,7c0,0,-69,-21,-116,-21Z" 
+id="f1_2h"
+transform="scale(0.001,-0.001)" />
+
+<path d="M31,0V34L150,52v956L31,1026v34H274V52L394,34V0Z" 
+id="f1_28"
+transform="scale(0.001,-0.001)" />
+
+<path d="M476,327V830h-4L114,327ZM476,0V220H30v99l488,686h86V327H740V220H604V0Z" 
+id="f1_o"
+transform="scale(0.001,-0.001)" />
+
+<path d="M235,0V40L394,60V936H356c0,0,-189,0,-258,-15L78,766H28v234H908V766H857L837,921c0,0,-22,5,-98,10c0,0,-75,4,-165,4H538V60L697,40V0Z" 
+id="f1_1k"
+transform="scale(0.001,-0.001)" />
+
+<path d="M148,-329c0,0,-58,0,-114,13v151H69l24,-71c0,0,23,-17,64,-17c0,0,39,0,72,22c0,0,33,22,60,66c0,0,27,44,68,158L90,649L19,668v33H344V668L233,647L423,157L606,649L497,668v33H758V668L685,652L411,-44c0,0,-48,-123,-84,-176c0,0,-36,-54,-79,-82c0,0,-44,-27,-100,-27Z" 
+id="f1_2l"
+transform="scale(0.001,-0.001)" />
+
+<path d="M495,413c0,0,0,133,-34,190c0,0,-34,57,-105,57c0,0,-78,0,-119,-63c0,0,-42,-62,-42,-184ZM374,-14c0,0,-163,0,-239,87c0,0,-75,88,-75,283c0,0,0,183,77,273c0,0,76,91,219,91c0,0,269,0,269,-306V353H194V340c0,0,0,-103,23,-160c0,0,22,-57,70,-87c0,0,47,-30,124,-30c0,0,40,0,96,7c0,0,55,6,91,15V43C598,43,562,20,500,3c0,0,-61,-17,-126,-17Z" 
+id="f1_21"
+transform="scale(0.001,-0.001)" />
+
+<path d="M383,63c0,0,85,0,152,29V646c0,0,-67,12,-152,12c0,0,-194,0,-194,-314c0,0,0,-142,48,-211c0,0,48,-70,146,-70ZM342,-14c0,0,-287,0,-287,358c0,0,0,184,82,280c0,0,81,96,239,96c0,0,81,0,163,-18c0,0,-4,25,-4,124v182l-118,18v34H659V52L745,34V0H548l-9,52c0,0,-84,-66,-197,-66Z" 
+id="f1_20"
+transform="scale(0.001,-0.001)" />
+
+<path d="M350,-14c0,0,-142,0,-269,31L73,228h49L156,88c0,0,29,-17,82,-29c0,0,54,-12,100,-12c0,0,117,0,173,54c0,0,56,54,56,179c0,0,0,98,-52,149c0,0,-51,51,-159,56l-107,6v61l107,7c0,0,84,5,124,52c0,0,41,48,41,145c0,0,0,101,-44,147c0,0,-44,45,-139,45c0,0,-40,0,-83,-10c0,0,-43,-11,-76,-29L153,786H104V979c0,0,74,19,127,26c0,0,54,6,107,6c0,0,321,0,321,-246c0,0,0,-104,-57,-165c0,0,-57,-62,-162,-77c0,0,136,-15,200,-78c0,0,64,-62,64,-173c0,0,0,-135,-92,-211c0,0,-93,-75,-262,-75Z" 
+id="f1_n"
+transform="scale(0.001,-0.001)" />
+
+<path d="M191,-20c0,0,-39,0,-65,25c0,0,-25,27,-25,64c0,0,0,38,26,64c0,0,26,26,64,26c0,0,38,0,64,-26c0,0,26,-26,26,-64c0,0,0,-37,-25,-64c0,0,-26,-25,-65,-25Z" 
+id="f1_i"
+transform="scale(0.001,-0.001)" />
+
+<path d="M64,-325c0,0,-46,0,-107,14v148H-8l19,-81c0,0,25,-21,62,-21c0,0,44,0,67,47c0,0,22,47,22,152V649L57,668v33H286V-28c0,0,0,-146,-57,-221c0,0,-56,-76,-165,-76ZM213,850c0,0,-34,0,-58,24c0,0,-24,23,-24,56c0,0,0,34,24,58c0,0,24,24,58,24c0,0,32,0,56,-24c0,0,24,-24,24,-58c0,0,0,-33,-24,-56c0,0,-24,-24,-56,-24Z" 
+id="f1_26"
+transform="scale(0.001,-0.001)" />
+
+<path d="M278,-14c0,0,-52,0,-115,11c0,0,-63,10,-99,23V193H98L134,95c0,0,56,-51,146,-51c0,0,144,0,144,124c0,0,0,91,-114,130l-66,21c0,0,-75,25,-110,50c0,0,-34,26,-53,63c0,0,-18,36,-18,89c0,0,0,92,63,145c0,0,63,54,170,54c0,0,77,0,193,-23V544H454l-32,81c0,0,-39,35,-124,35c0,0,-61,0,-92,-30c0,0,-32,-30,-32,-80c0,0,0,-43,29,-72c0,0,28,-29,86,-48c0,0,110,-38,144,-55c0,0,33,-17,57,-42c0,0,23,-25,36,-57c0,0,13,-32,13,-79c0,0,0,-104,-66,-158c0,0,-66,-53,-195,-53Z" 
+id="f1_2f"
+transform="scale(0.001,-0.001)" />
+
+<path d="M427,0V34l94,17L359,299L169,49L266,34V0H13V34L95,46L325,350L122,649L40,668v33H357V668L264,647L399,446L554,649l-96,19v33H710V668L630,652L433,397L663,49L745,34V0Z" 
+id="f1_2k"
+transform="scale(0.001,-0.001)" />
+
+<path d="M868,0L251,900V60L385,40V0H44V40L172,60V941L44,961v39H347L862,259V941L727,961v39h341V961L940,941V0Z" 
+id="f1_1e"
+transform="scale(0.001,-0.001)" />
+
+<path d="M377,44c0,0,99,0,147,73c0,0,47,73,47,237c0,0,0,161,-47,234c0,0,-47,72,-147,72c0,0,-97,0,-141,-69c0,0,-44,-70,-44,-237c0,0,0,-169,45,-239c0,0,44,-71,140,-71Zm0,-58c0,0,-158,0,-238,94c0,0,-81,95,-81,274c0,0,0,178,81,272c0,0,80,94,244,94c0,0,160,0,241,-92c0,0,82,-92,82,-274c0,0,0,-368,-329,-368Z" 
+id="f1_2b"
+transform="scale(0.001,-0.001)" />
+
+<path d="M448,506c0,0,134,0,190,49c0,0,57,50,57,168c0,0,0,114,-56,162c0,0,-56,48,-195,48H316V506ZM777,0L496,438H316V60L468,40V0H54V40L172,60V941L44,961v39H476c0,0,188,0,277,-63c0,0,90,-64,90,-204c0,0,0,-100,-54,-173c0,0,-55,-72,-151,-101L909,59L1017,39V0Z" 
+id="f1_1i"
+transform="scale(0.001,-0.001)" />
+
+<path d="M394,459c0,0,126,0,186,58c0,0,60,57,60,187c0,0,0,123,-57,176c0,0,-58,53,-194,53H316V459ZM54,0V40L172,60V941L44,961v39H421c0,0,368,0,368,-295c0,0,0,-153,-93,-233c0,0,-93,-80,-267,-80H316V60L475,39V0Z" 
+id="f1_1g"
+transform="scale(0.001,-0.001)" />
+
+<path d="M44,0V40L172,60V941L44,961v39H445V961L316,941V549H787V941L659,961v39h400V961L930,941V60L1059,40V0H659V40L787,60V481H316V60L445,40V0Z" 
+id="f1_18"
+transform="scale(0.001,-0.001)" />
+
+<path d="M178,0L615,886H176L150,764H101v236H720V943L274,0Z" 
+id="f1_r"
+transform="scale(0.001,-0.001)" />
+
+<path d="M431,0V33L535,52V500c0,0,0,62,-32,95c0,0,-32,33,-95,33c0,0,-66,0,-163,-22V52L350,34V0H32V34l89,18V649L32,668v33H237l6,-57c0,0,56,32,119,54c0,0,62,22,110,22c0,0,52,0,95,-20c0,0,44,-19,66,-62c0,0,57,32,134,57c0,0,77,25,128,25c0,0,179,0,179,-207V52l90,-19V0H846V33L950,52V500c0,0,0,128,-119,128c0,0,-19,0,-45,-3c0,0,-26,-3,-52,-7c0,0,-25,-4,-49,-8c0,0,-23,-5,-39,-8c0,0,13,-40,13,-89V52L764,33V0Z" 
+id="f1_29"
+transform="scale(0.001,-0.001)" />
+
+<path d="M64,0V34L168,58V638H47v37l121,29v49c0,0,0,155,61,239c0,0,62,84,173,84c0,0,58,0,107,-15V908H472l-33,92c0,0,-26,16,-62,16c0,0,-47,0,-66,-42c0,0,-19,-42,-19,-157V701H478V638H292V58L443,34V0Z" 
+id="f1_22"
+transform="scale(0.001,-0.001)" />
+
+<path d="M377,44c0,0,99,0,145,109c0,0,46,108,46,351c0,0,0,240,-45,346c0,0,-46,106,-146,106c0,0,-97,0,-139,-100c0,0,-43,-100,-43,-352c0,0,0,-253,44,-356c0,0,43,-104,138,-104Zm0,-58c0,0,-158,0,-238,132c0,0,-81,133,-81,386c0,0,0,249,81,380c0,0,80,132,244,132c0,0,159,0,241,-130c0,0,82,-130,82,-382c0,0,0,-518,-329,-518Z" 
+id="f1_k"
+transform="scale(0.001,-0.001)" />
+
+<path d="M420,-22L89,941L1,961v39H383V961L236,941L474,236L744,930h33L1037,236l227,705l-156,20v39h331V961l-87,-20L1025,-22H985L726,666L460,-22Z" 
+id="f1_1n"
+transform="scale(0.001,-0.001)" />
+
+<path d="M536,62c0,0,127,0,191,54c0,0,63,55,63,169c0,0,0,105,-70,154c0,0,-70,49,-225,49H316V67c0,0,103,-5,220,-5ZM480,555c0,0,121,0,178,48c0,0,57,48,57,155c0,0,0,92,-58,133c0,0,-57,42,-186,42H316V555ZM554,-4L235,0H44V40L172,60V941L44,961v39H501c0,0,191,0,279,-56c0,0,88,-56,88,-178c0,0,0,-88,-55,-150c0,0,-54,-62,-151,-83c0,0,135,-14,209,-79c0,0,73,-64,73,-166c0,0,0,-144,-99,-219C845,69,745,-4,554,-4Z" 
+id="f1_12"
+transform="scale(0.001,-0.001)" />
+
+<path d="M442,0V33l93,19V504c0,0,0,128,-124,128c0,0,-70,0,-168,-21V52L338,34V0H31V34l88,18v956L15,1026v34H243V756c0,0,0,-77,-5,-112c0,0,54,31,122,53c0,0,68,23,115,23c0,0,91,0,137,-53c0,0,47,-53,47,-154V52L744,33V0Z" 
+id="f1_24"
+transform="scale(0.001,-0.001)" />
+
+<path d="M577,-14c0,0,-243,0,-379,132C198,118,63,250,63,488c0,0,0,258,130,391c0,0,131,132,387,132c0,0,156,0,335,-38l5,-218H871L848,884c0,0,-52,32,-121,50c0,0,-69,17,-141,17c0,0,-191,0,-279,-112c0,0,-88,-113,-88,-349c0,0,0,-218,92,-332c0,0,92,-115,268,-115c0,0,85,0,160,20c0,0,76,21,120,55l27,149h49L930,32c0,0,-164,-46,-353,-46Z" 
+id="f1_13"
+transform="scale(0.001,-0.001)" />
+
+<path d="M392,152V470H76v76H392V863h77V546H787V470H469V152Z" 
+id="f1_f"
+transform="scale(0.001,-0.001)" />
+
+<path d="M617,0L251,860V60L385,40V0H44V40L172,60V941L44,961v39H347L672,239l355,761h287V961L1185,941V60L1314,39V0H908V39l134,21V860L643,0Z" 
+id="f1_1d"
+transform="scale(0.001,-0.001)" />
+
+<path d="M551,44c0,0,171,0,252,107c0,0,82,106,82,349c0,0,0,240,-82,346c0,0,-82,105,-252,105c0,0,-171,0,-252,-106c0,0,-80,-106,-80,-345c0,0,0,-241,80,-348c0,0,81,-108,252,-108ZM930,-246c0,0,-53,0,-94,17c0,0,-41,18,-83,56c0,0,-41,39,-139,162c0,0,-27,-3,-63,-3c0,0,-239,0,-364,130C187,116,63,247,63,500c0,0,0,511,488,511c0,0,240,0,365,-129c0,0,125,-130,125,-382c0,0,0,-366,-265,-475l37,-45c0,0,66,-82,112,-117c0,0,46,-35,91,-35l61,2v-49c0,0,-17,-7,-64,-17c0,0,-48,-10,-83,-10Z" 
+id="f1_1h"
+transform="scale(0.001,-0.001)" />
+
+<path d="M44,0V40L172,60V941L44,961v39H471V961L316,941V64H513c0,0,159,0,234,15l46,208h48L828,0Z" 
+id="f1_1c"
+transform="scale(0.001,-0.001)" />
+
+<path d="M529,64c0,0,183,0,270,108c0,0,87,108,87,335c0,0,0,210,-113,318c0,0,-113,108,-322,108H316V70c0,0,90,-6,213,-6Zm0,-66L172,0H44V40L172,60V941L44,961v39H498c0,0,277,0,411,-123c0,0,133,-124,133,-371c0,0,0,-251,-129,-380C913,126,785,-2,529,-2Z" 
+id="f1_14"
+transform="scale(0.001,-0.001)" />
+
+<path d="M54,0V40L172,60V941L44,961v39H794V761H745L721,923c0,0,-83,10,-241,10H316V516H611l23,120h46V328H634L611,449H316V60L483,40V0Z" 
+id="f1_16"
+transform="scale(0.001,-0.001)" />
+
+<path d="M506,-22L99,926L17,946v54H452V946L348,926L630,270L892,926L791,946v54h295V946L991,926L605,-22Z" 
+id="f0_1m"
+transform="scale(0.001,-0.001)" />
+
+<path d="M26,0V55L154,75V926L26,946v54H518V946L389,926V555H798V926L670,946v54h493V946L1034,926V75L1163,55V0H670V55L798,75V473H389V75L518,55V0Z" 
+id="f0_18"
+transform="scale(0.001,-0.001)" />
+
+<path d="M67,0V110L206,236c0,0,133,117,196,189c0,0,63,73,90,150c0,0,27,77,27,176c0,0,0,97,-44,148c0,0,-44,50,-144,50c0,0,-39,0,-81,-11c0,0,-42,-10,-74,-28L150,787H101V980c0,0,135,32,230,32c0,0,164,0,247,-68c0,0,82,-69,82,-193c0,0,0,-84,-32,-158c0,0,-33,-74,-100,-148c0,0,-67,-73,-222,-205c0,0,-67,-57,-141,-125H680V0Z" 
+id="f1_m"
+transform="scale(0.001,-0.001)" />
+
+<path d="M134,0V40L339,60V876L137,804v39l292,166h39V60L672,40V0Z" 
+id="f1_l"
+transform="scale(0.001,-0.001)" />
+
+<path d="M211,-20c0,0,-39,0,-64,25c0,0,-26,27,-26,64c0,0,0,38,26,64c0,0,26,26,64,26c0,0,37,0,64,-25c0,0,26,-26,26,-65c0,0,0,-37,-26,-64c0,0,-26,-25,-64,-25Zm0,556c0,0,-38,0,-64,26c0,0,-26,26,-26,64c0,0,0,37,26,64c0,0,25,27,64,27c0,0,38,0,64,-27c0,0,26,-27,26,-64c0,0,0,-38,-26,-64c0,0,-27,-26,-64,-26Z" 
+id="f1_u"
+transform="scale(0.001,-0.001)" />
+
+<path d="M0,-14L351,1007h73L75,-14Z" 
+id="f1_j"
+transform="scale(0.001,-0.001)" />
+
+<path d="M327,-14L84,649L1,668v33H335V668L219,647L385,174L554,631h63L786,171L944,649L830,668v33h267V668l-78,-16L784,-14H726L553,447L382,-14Z" 
+id="f1_2j"
+transform="scale(0.001,-0.001)" />
+
+<path d="M376,50c0,0,103,0,149,80c0,0,46,80,46,240c0,0,0,137,-47,204c0,0,-48,67,-148,67c0,0,-44,0,-87,-8c0,0,-44,-7,-63,-16V61c0,0,63,-11,150,-11Zm3,-64c0,0,-64,0,-141,14c0,0,-78,14,-136,37v971L0,1026v34H226V809c0,0,0,-40,-4,-148c0,0,74,59,188,59c0,0,143,0,219,-87c0,0,77,-87,77,-263c0,0,0,-189,-84,-287c0,0,-84,-97,-243,-97Z" 
+id="f1_1y"
+transform="scale(0.001,-0.001)" />
+
+<path d="M306,-20c0,0,-39,0,-65,25c0,0,-25,27,-25,64c0,0,0,38,26,64c0,0,26,26,64,26c0,0,37,0,63,-25c0,0,26,-26,26,-65c0,0,0,-37,-25,-64c0,0,-26,-25,-64,-25ZM269,261L249,510l107,22c0,0,64,13,93,65c0,0,29,52,29,152c0,0,0,109,-39,154c0,0,-40,45,-140,45c0,0,-83,0,-145,-36L128,789H79V979c0,0,118,32,220,32c0,0,316,0,316,-253c0,0,0,-122,-60,-196c0,0,-60,-73,-175,-97L338,455L328,261Z" 
+id="f1_z"
+transform="scale(0.001,-0.001)" />
+
+<path d="M76,316v76H787V316Zm0,306v76H787V622Z" 
+id="f1_x"
+transform="scale(0.001,-0.001)" />
+
+<path d="M383,63c0,0,44,0,87,7c0,0,43,8,65,18V646c0,0,-67,12,-152,12c0,0,-194,0,-194,-310c0,0,0,-142,48,-214c0,0,47,-71,146,-71Zm56,-388v35l96,18V-77c0,0,0,73,7,124c0,0,-79,-61,-200,-61c0,0,-287,0,-287,362c0,0,0,180,81,276c0,0,81,96,237,96c0,0,84,0,166,-18l67,33h53V-272l77,-18v-35Z" 
+id="f1_2d"
+transform="scale(0.001,-0.001)" />
+
+<path d="M350,-14c0,0,-142,0,-253,31L89,228h49L172,88c0,0,32,-18,78,-30c0,0,46,-11,88,-11c0,0,118,0,173,56c0,0,56,55,56,187c0,0,0,93,-24,140c0,0,-24,47,-76,70c0,0,-52,22,-140,22c0,0,-68,0,-133,-18H122v496H630V886H189V567c0,0,81,18,173,18c0,0,173,0,258,-71c0,0,84,-71,84,-216c0,0,0,-151,-92,-232c0,0,-91,-80,-262,-80Z" 
+id="f1_p"
+transform="scale(0.001,-0.001)" />
+
+<path d="M322,0V40L481,60V389L130,941L17,961v39H440V961L306,941L593,480L866,941L739,961v39h326V961L955,941L625,394V60L784,40V0Z" 
+id="f1_1p"
+transform="scale(0.001,-0.001)" />
+
+<path d="M551,44c0,0,171,0,252,108c0,0,82,108,82,349c0,0,0,239,-81,345c0,0,-81,105,-253,105c0,0,-172,0,-252,-105c0,0,-80,-106,-80,-345c0,0,0,-241,80,-349c0,0,81,-108,252,-108Zm0,-58c0,0,-238,0,-363,129C188,115,63,245,63,501c0,0,0,510,488,510c0,0,242,0,366,-129c0,0,124,-130,124,-381c0,0,0,-255,-126,-385C915,116,790,-14,551,-14Z" 
+id="f1_1f"
+transform="scale(0.001,-0.001)" />
+
+<path d="M57,302V417H454V302Z" 
+id="f1_h"
+transform="scale(0.001,-0.001)" />
+
+<path d="M477,0V33l64,19L348,354L257,254V52L331,34V0H44V34l89,18v956L29,1026v34H257V338L544,647l-73,21v33H718V668L631,650L431,446L688,51L764,33V0Z" 
+id="f1_27"
+transform="scale(0.001,-0.001)" />
+
+<path d="M377,44c0,0,100,0,147,52c0,0,47,52,47,174c0,0,0,119,-46,173c0,0,-47,54,-148,54c0,0,-98,0,-141,-51c0,0,-44,-52,-44,-176c0,0,0,-126,44,-176c0,0,44,-50,141,-50Zm2,518c0,0,84,0,123,46c0,0,39,46,39,148c0,0,0,103,-40,152c0,0,-41,48,-122,48c0,0,-79,0,-118,-47c0,0,-38,-47,-38,-153c0,0,0,-103,37,-149c0,0,38,-45,119,-45ZM377,-14c0,0,-319,0,-319,284c0,0,0,99,48,164c0,0,48,66,129,96c0,0,-65,30,-106,87c0,0,-40,56,-40,139c0,0,0,124,75,192c0,0,76,68,219,68c0,0,139,0,216,-68c0,0,76,-67,76,-192c0,0,0,-82,-40,-139c0,0,-40,-57,-108,-87c0,0,85,-31,132,-98c0,0,47,-67,47,-162c0,0,0,-142,-80,-213c0,0,-80,-71,-249,-71Z" 
+id="f1_s"
+transform="scale(0.001,-0.001)" />
+
+<path d="M663,0V39L790,60L527,448L236,60L360,40V0H34V40L144,60L484,512L194,941L81,961v39H494V961L367,941L574,633L806,941L683,961v39h327V961L900,941L618,567L962,60L1076,39V0Z" 
+id="f1_1o"
+transform="scale(0.001,-0.001)" />
+
+<path d="M438,64c0,0,131,0,131,294c0,0,0,279,-130,279c0,0,-69,0,-127,-28V80c0,0,60,-16,126,-16ZM20,-325v50l76,18V634L19,652v49H304l1,-36c0,0,80,55,194,55c0,0,146,0,218,-86c0,0,71,-86,71,-271c0,0,0,-183,-83,-280c0,0,-83,-97,-238,-97c0,0,-79,0,-160,19c0,0,5,-48,5,-109V-257l103,-18v-50Z" 
+id="f0_2c"
+transform="scale(0.001,-0.001)" />
+
+<path d="M434,423c0,0,0,100,-7,141c0,0,-6,41,-22,60c0,0,-16,19,-45,19c0,0,-44,0,-66,-48c0,0,-22,-49,-22,-172ZM389,-14c0,0,-172,0,-254,89c0,0,-83,90,-83,279c0,0,0,184,79,274c0,0,79,91,238,91c0,0,142,0,206,-76c0,0,64,-76,64,-237V345H271V333c0,0,0,-111,18,-159c0,0,18,-47,58,-71c0,0,40,-25,110,-25c0,0,66,0,166,21V42C623,42,582,17,517,1c0,0,-66,-15,-128,-15Z" 
+id="f0_21"
+transform="scale(0.001,-0.001)" />
+
+<path d="M41,0V49l69,18V634L41,652v49H313l11,-61l50,26c0,0,105,54,188,54c0,0,194,0,194,-207V67L827,49V0H478V49l63,18V484c0,0,0,63,-27,98c0,0,-26,35,-75,35c0,0,-57,0,-114,-26V67L389,49V0Z" 
+id="f0_2a"
+transform="scale(0.001,-0.001)" />
+
+<path d="M379,60c0,0,59,0,84,64c0,0,24,65,24,230c0,0,0,164,-24,227c0,0,-24,63,-84,63c0,0,-57,0,-80,-60c0,0,-22,-60,-22,-230c0,0,0,-172,23,-233c0,0,22,-61,79,-61Zm-2,-74c0,0,-161,0,-240,91c0,0,-79,91,-79,277c0,0,0,186,80,276c0,0,81,90,245,90c0,0,167,0,245,-93c0,0,78,-93,78,-273c0,0,0,-188,-81,-278c0,0,-81,-90,-248,-90Z" 
+id="f0_2b"
+transform="scale(0.001,-0.001)" />
+
+<path d="M287,-18c0,0,-194,0,-194,206V634L23,652v49H309V217c0,0,0,-63,26,-98c0,0,27,-35,76,-35c0,0,57,0,113,26V634l-64,18v49H740V67L809,49V0H536L526,61L475,35c0,0,-104,-53,-188,-53Z" 
+id="f0_2h"
+transform="scale(0.001,-0.001)" />
+
+<path d="M41,0V49l91,18V634L41,652v49H336l8,-145c0,0,80,89,144,128c0,0,64,40,117,40h40V468H604l-45,94c0,0,-47,0,-106,-21c0,0,-60,-20,-105,-48V67L460,49V0Z" 
+id="f0_2e"
+transform="scale(0.001,-0.001)" />
+
+<path d="M425,-14c0,0,-187,0,-280,90c0,0,-93,90,-93,276c0,0,0,115,42,198c0,0,43,82,121,126c0,0,78,44,182,44c0,0,104,0,227,-26V486H571L539,609c0,0,-25,19,-50,26c0,0,-24,8,-65,8c0,0,-44,0,-79,-35c0,0,-36,-35,-56,-99c0,0,-20,-64,-20,-153c0,0,0,-150,47,-214c0,0,47,-64,148,-64c0,0,103,0,176,21V42C640,42,606,15,547,0c0,0,-59,-14,-122,-14Z" 
+id="f0_1z"
+transform="scale(0.001,-0.001)" />
+
+<path d="M56,295V424H453V295Z" 
+id="f0_h"
+transform="scale(0.001,-0.001)" />
+
+<path d="M116,-325c0,0,-67,0,-128,14v168H35l32,-85c0,0,18,-15,37,-15c0,0,40,0,63,50c0,0,24,50,24,141V626L67,652v49H407V-28c0,0,0,-141,-76,-219c0,0,-76,-78,-215,-78ZM298,831c0,0,-47,0,-81,33c0,0,-33,33,-33,82c0,0,0,47,33,81c0,0,33,33,81,33c0,0,47,0,81,-33c0,0,34,-33,34,-81c0,0,0,-48,-34,-81c0,0,-33,-34,-81,-34Z" 
+id="f0_26"
+transform="scale(0.001,-0.001)" />
+
+<path d="M327,-14c0,0,-101,0,-156,45c0,0,-55,45,-55,131V623H25v49l108,29l87,159H332V701H480V623H332V175c0,0,0,-48,20,-73c0,0,20,-24,53,-24c0,0,40,0,97,12V26c0,0,-22,-15,-76,-27c0,0,-55,-13,-99,-13Z" 
+id="f0_2g"
+transform="scale(0.001,-0.001)" />
+
+<path d="M276,-14c0,0,-57,0,-125,13C151,-1,83,10,48,23V214H97l28,-98c0,0,26,-26,69,-44c0,0,42,-17,86,-17c0,0,65,0,97,28c0,0,32,28,32,71c0,0,0,41,-31,65c0,0,-30,25,-133,57c0,0,-108,34,-154,92c0,0,-45,58,-45,143c0,0,0,95,71,152c0,0,71,57,183,57c0,0,77,0,207,-22V518H457l-24,82c0,0,-21,22,-60,36c0,0,-40,14,-75,14c0,0,-53,0,-79,-22c0,0,-26,-22,-26,-60c0,0,0,-40,32,-65c0,0,32,-26,132,-55c0,0,109,-34,155,-89c0,0,45,-55,45,-137c0,0,0,-117,-72,-177c0,0,-72,-59,-209,-59Z" 
+id="f0_2f"
+transform="scale(0.001,-0.001)" />
+
+<path d="M41,0V49l69,18V993l-72,18v49H325V756c0,0,0,-49,-4,-116l51,26c0,0,106,54,190,54c0,0,194,0,194,-207V67L827,49V0H478V49l63,18V484c0,0,0,63,-27,98c0,0,-26,35,-75,35c0,0,-57,0,-114,-26V67L389,49V0Z" 
+id="f0_24"
+transform="scale(0.001,-0.001)" />
+
+<path d="M416,68c0,0,60,0,124,32V628c0,0,-58,16,-118,16c0,0,-67,0,-104,-74c0,0,-38,-73,-38,-216c0,0,0,-139,36,-212c0,0,35,-74,100,-74ZM369,-14c0,0,-155,0,-231,88c0,0,-76,90,-76,274c0,0,0,182,82,277c0,0,81,95,236,95c0,0,82,0,165,-20c0,0,-5,24,-5,115V993l-72,18v49H756V67L833,49V0H562L547,40C547,40,505,13,483,4c0,0,-23,-7,-51,-12c0,0,-28,-6,-63,-6Z" 
+id="f0_20"
+transform="scale(0.001,-0.001)" />
+
+<path d="M41,0V49l76,18V623H11v52l106,29v75c0,0,0,144,73,220c0,0,73,77,210,77c0,0,74,0,124,-15V894H476l-22,82c0,0,-18,17,-47,17c0,0,-74,0,-74,-190V701H475V623H333V67L447,49V0Z" 
+id="f0_22"
+transform="scale(0.001,-0.001)" />
+
+<path d="M30,0V49l76,18V993l-72,18v49H322V67L398,49V0Z" 
+id="f0_28"
+transform="scale(0.001,-0.001)" />
+
+<path d="M34,0V49l76,18V634L38,652v49H325V67L402,49V0ZM217,831c0,0,-48,0,-81,33c0,0,-34,33,-34,82c0,0,0,48,34,81c0,0,34,33,81,33c0,0,48,0,81,-33c0,0,33,-33,33,-81c0,0,0,-47,-33,-81c0,0,-32,-34,-81,-34Z" 
+id="f0_25"
+transform="scale(0.001,-0.001)" />
+
+<path d="M41,0V34L426,641H261c0,0,-42,0,-80,-7c0,0,-39,-7,-54,-19L104,515H69V701H586V665L201,60H407c0,0,42,0,89,10c0,0,47,10,66,25l39,147h35L617,0Z" 
+id="f1_2m"
+transform="scale(0.001,-0.001)" />
+
+<path d="M460,-325c0,0,-148,79,-231,172c0,0,-84,93,-123,217c0,0,-39,126,-39,304c0,0,0,178,39,303c0,0,39,125,122,217c0,0,82,93,232,172V997c0,0,-91,-52,-145,-134c0,0,-54,-81,-79,-190c0,0,-25,-109,-25,-305c0,0,0,-194,26,-309c0,0,26,-114,82,-193c0,0,56,-79,141,-128v-63Z" 
+id="f1_c"
+transform="scale(0.001,-0.001)" />
+
+<path d="M49,-325v63c0,0,85,49,140,128c0,0,56,79,83,194c0,0,26,115,26,308c0,0,0,196,-25,305c0,0,-25,109,-79,190c0,0,-54,82,-145,134v63c0,0,149,-80,232,-172c0,0,83,-92,122,-217c0,0,39,-125,39,-303c0,0,0,-177,-39,-303c0,0,-39,-125,-122,-217c0,0,-83,-93,-232,-173Z" 
+id="f1_d"
+transform="scale(0.001,-0.001)" />
+
+
+</defs>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Tinos_c;
+	src: url("fonts/Tinos_c.woff") format("woff");
+}
+
+@font-face {
+	font-family: Tinos-Bold_h;
+	src: url("fonts/Tinos-Bold_h.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
