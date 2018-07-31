@@ -4,195 +4,27 @@
 <meta name="keywords" content="code, coding, programming, software engineer, software developer, mean stack, web development, development, engineering, node.js, angular.js, express.js, mongoDB,  javascript, open source, frontend development, frontend, CSS, SVG, angular, restAPI, rest, freelancer, freelance, SEO, coding4lifeblog, freecodecamp, IOG-Austria, engineers without borders,
 HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab">
 <title>Matthias Liszt's Code Portfolio</title>
-<style>
-body {
-  font-family: "Arial", Arial, sans-serif;
-  font-style: normal;
-  background: url(arabtile.png) repeat; 
-}
-#resume{
- 
- color: blue;
- float:left;
- border: none;
- background: lightgrey;
-}
-</style>
+<link rel="stylesheet" href="oldstyle.css">
+<script src="jquery.min.js"></script>
 </head>
 <body onclick="changeTessellation()">
-<div id="mainline"><button id="resume" onclick="resumeLoad()">Resume</button></div>
+<div id="mainline"><button id="resume" onclick="resumeLoad()">Resume/CV</button></div>
 <br></br>
+<div id="headpicture" onclick="$('#headpicture').hide();">
 <center><h1>Matthias Liszt's Code Portfolio</h1></center>
+<center><div class="rainbowback profilecover"><img id="profile" class="profile" onclick="shrinkPicture()" src="25592425.jpeg" alt="M.Liszt profile picture" /></div></center>
+</div>
 
-<center><img id="profile" onclick="shrinkPicture()" src="25592425.jpeg" alt="M.Liszt profile picture" /></center>
+<h3>Select skills to see projects</h3>
+<div id="mytags"></div>
+<div id="myprojects">
+<div id="entries"></div>
+</div>
 
+<script src="oldjava.js"></script>
+<script src="projects.json"></script>
+<script src="gettags.js"></script>
 <br></br>
-<center>
-<table style="width:80%;">
-<tr><th>Projects</th><th>Completed</th><th>View</th><th>Code</th><th>Description</th></tr>
-
-<tr><td>Martian Safari The New Explorer</td><td>Oct 23, 2017</td>
-<td><a href="">---</a>
-<td><a href="https://github.com/MatthiasLiszt/MartianSafariTheNewExplorer">github</a>
-<td><a href="https://coding4lifeblog.wordpress.com/2017/10/26/a-martian-safari-with-angular-former-angular-2/">in typescript</a>
-</tr>
-
-<tr><td>Simple Kaleidoscopic Background</td><td>Oct 6, 2017</td>
-<td><a href="https://codepen.io/mahagugu/pen/JrMEYb">codepen</a>
-<td><a href="https://github.com/MatthiasLiszt/simplekaleidoscope">github</a>
-<td><a href="https://coding4lifeblog.wordpress.com/2017/10/05/a-scalable-kaleido-for-background/">in JS ,SVG</a>
-</tr>
-
-<tr><td>Wallpaper Tessellation Generator</td><td>Sep 25, 2017</td>
-<td><a href="https://codepen.io/mahagugu/pen/wroVZK">codepen</a>
-<td><a href="http://github.com/MatthiasLiszt/wallpapertessellation">github</a>
-<td><a href="https://en.m.wikipedia.org/wiki/Wallpaper_group">in JS ,SVG</a>
-</tr>
-
-<tr><td>Lunatic Lander with Redux</td><td>Sep 14, 2017</td>
-<td><a href="https://codepen.io/mahagugu/pen/OxPqdO">codepen</a>
-<td><a href="https://github.com/MatthiasLiszt/lunacticlander">github</a>
-<td><a href="https://github.com/MatthiasLiszt/lunacticlander/blob/master/techbackground.txt">in AngularJS</a>
-</tr>
-  
-<tr><td>Tiny Lisp Interpreter</td><td>Aug 20, 2017</td>
-<td><a href="https://www.github.com/MatthiasLiszt/tinylispinterpreter">github</a>
-<td><a href="https://www.github.com/MatthiasLiszt/tinylispinterpreter">github</a>
-<td><a href="https://github.com/MatthiasLiszt/tinylispinterpreter/blob/master/howitworks.md">in node.js</a>
-</tr>
-
-<tr><td>Vogler Analog Computer</td><td>Jul 14, 2017</td>
-<td><a href="https://codepen.io/mahagugu/pen/weQmRg">codepen</a></td>    
-<td><a href="https://codepen.io/mahagugu/pen/weQmRg">codepen</a></td>
-<td><a href="https://coding4lifeblog.wordpress.com/2017/07/12/the-unwanted-analog/">in jQuery</a>
-</td>
-</tr>
-
-<tr><td>Unknown Nim-Variation</td><td>Jul &nbsp;&nbsp;1, 2017</td>
-<td><a href="https://codepen.io/mahagugu/pen/NgOEdd">codepen</a></td>
-<td><a href="https://www.github.com/MatthiasLiszt/unknownnimjs/">github</a></td>
-<td><a href="https://github.com/MatthiasLiszt/unknownnimjs#readme">in react.js</a></td>
-</tr>
-<tr>
-<td>TicTacToe As Dynamic Webpage</td><td>Jun 24, 2017</td>
-<td><a href="https://codepen.io/mahagugu/full/JJyRoX/">codepen</a></td>
-<td><a href="https://www.github.com/MatthiasLiszt/tictactoeasdynamicwebpagewithvanillajs">github</a></td>
-<td><a href="https://www.github.com/MatthiasLiszt/tictactoeasdynamicwebpagewithvanillajs">in JavaScript</a></td>
-</tr>
-
-<tr><td>Build a Pinterest Clone</td><td>Jun 19, 2017</td>
-<td><a href="https://pincloneapp-1206.herokuapp.com/">heroku</a></td>
-<td><a href="https://github.com/MatthiasLiszt/pincloneappforFCC/">github</a></td>
-<td><a href="https://www.freecodecamp.com/challenges/Build%20a%20Pinterest%20Clone">in node.js
-</a></td> 
-</tr>
-<tr><td>Manage a Book Trading Club</td><td>Jun &nbsp;&nbsp;8, 2017</td>
-<td><a href="https://booktrading-0806.herokuapp.com/">heroku</a>
-<td><a href="https://github.com/MatthiasLiszt/booktradingappforFCC/">github</a></td>
-<td><a href="https://www.freecodecamp.com/challenges/Manage%20a%20Book%20Trading%20Club" target="_blank">in node.js</td> 
-</tr>
-<tr><td>Chart the Stock Market</td><td>May 31, 2017</td>
-<td><a href="https://stockmarket-3105.herokuapp.com/">heroku</a></td>
-<td><a href="https://github.com/MatthiasLiszt/stockmarketchartwebsocket4fcc/">github</a> </td>
-<td><a href="https://www.freecodecamp.com/challenges/Chart%20the%20Stock%20Market">in node.js</a></td>
-</tr>
-<tr><td>Build a Nightlife Coordination App</td><td>May 23, 2017</td>
-<td><a href="https://nightlifebooking-7471.herokuapp.com/">heroku</a></td>
-<td><a href="https://github.com/MatthiasLiszt/nightlifeappwithyelp">github</a></td>
-<td><a href="https://www.freecodecamp.com/challenges/Build%20a%20Nightlife%20Coordination%20App">in node.js</a></td>
-</tr>
-<tr>
-<td>Build a Voting App</td><td>May 13, 2017</td>
-<td><a href="https://murmuring-shelf-95267.herokuapp.com/">heroku</a></td>
-<td><a href="https://github.com/MatthiasLiszt/fccvotingappwithtwitter">github</a> </td>
-<td><a href="https://www.freecodecamp.com/challenges/Build%20a%20Voting%20App">in node.js</a></td> 
-</tr>
-<tr>
-<td>File Metadata Microservice</td><td>May 03, 2017</td>
-<td><a href="https://nameless-escarpment-30932.herokuapp.com/">heroku</a></td> 
-<td><a href="https://github.com/MatthiasLiszt/filemetadata-node.js/">github</a></td>
-<td><a href="https://www.freecodecamp.com/challenges/File%20Metadata%20Microservice">in node.js</a></td></tr>
-<tr><td>Map Data Across the Globe</td><td>Apr 14, 2017</td>
-<td><a href="http://codepen.io/mahagugu/pen/ybyzKg">codepen</a></td>
-<td><a href="http://codepen.io/mahagugu/pen/ybyzKg">codepen</a></td>
-<td><a href="https://www.freecodecamp.com/challenges/Map%20Data%20Across%20the%20Globe">in d3.js</a></td>
-</tr>
-<tr><td>Nat. Contiguity with Force Directed Graph</td><td>Apr 12, 2017</td>
-<td><a href="http://codepen.io/mahagugu/pen/YVzGmJ">codepen</a></td>
-<td><a href="http://codepen.io/mahagugu/pen/YVzGmJ">codepen</a></td>
-<td><a href="https://www.freecodecamp.com/challenges/Show%20National%20Contiguity%20with%20a%20Force%20Directed%20Graph">in d3.js</a><td>
-</tr>
-<tr><td>Visualize Data with a Heat Map</td><td>Apr 10, 2017</td>
-<td><a href="https://codepen.io/mahagugu/pen/mmbNyX">codepen</a></td>
-<td><a href="https://codepen.io/mahagugu/pen/mmbNyX">codepen</a></td>
-<td><a href="https://www.freecodecamp.com/challenges/Visualize%20Data%20with%20a%20Heat%20Map">in d3.js</a></td>
-</tr>
-<tr><td>Build a Roguelike Dungeon Crawler Game</td><td>Apr 03, 2017</td>
-<td><a href="https://codepen.io/mahagugu/pen/LzEJNx">codepen</a></td>
-<td><a href="https://github.com/MatthiasLiszt/Roguelike-Dungeon-Crawler-for-FCC/tree/master">github</a></td>
-<td><a href="https://www.freecodecamp.com/challenges/Build%20a%20Roguelike%20Dungeon%20Crawler%20Game">in react.js</a></td>
-</tr>
-<tr>
-<td>Build the Game of Life</td><td>Mar 27, 2017</td>
-<td><a href="http://codepen.io/mahagugu/pen/vxzKXZ">codepen</a></td> 
-<td><a href="http://codepen.io/mahagugu/pen/vxzKXZ">codepen</a></td> 
-<td><a href="https://www.freecodecamp.com/challenges/Build%20the%20Game%20of%20Life">in react.js</a></td>
-</tr>
-<tr><td>Build a Recipe Box</td><td>Mar 24, 2017</td>
-<td><a href="http://codepen.io/mahagugu/pen/bqMQeP">codepen</a></td>
-<td><a href="http://codepen.io/mahagugu/pen/bqMQeP">codepen</a></td>
-<td><a href="https://www.freecodecamp.com/challenges/Build%20a%20Recipe%20Box">in JavaScript</a>
-</td>
-</tr>
-<tr><td>Build a Simon Game</td><td>Mar 20, 2017</td>
-<td><a href="http://codepen.io/mahagugu/pen/aJVgLr">codepen</a></td>
-<td><a href="http://codepen.io/mahagugu/pen/aJVgLr">codepen</a></td>
-<td><a href="https://www.freecodecamp.com/challenges/Build%20a%20Simon%20Game">in jQuery</a></td>
-</tr>
-</table>
-</center>
-<script>
-var background=true;
-var doubleSize=false;
-
-function shrinkPicture(){
- //alert("picture clicked");
- var width=document.images[0].width;
- var height=document.images[0].height;
- console.log("current picture dimensions "+width+" x "+ height);
- window.document.images[0].setAttribute("width",Math.round(width/1.41));
- window.document.images[0].setAttribute("height",Math.round(height/1.41));
-}
-
-function changeTessellation(){
- console.log("body clicked");
- if(background)
-  {document.body.style.background = "#eaeaea";
-   background=false;
-  }
- else
-  {document.body.style.background = "url(arabesque.jpg) repeat";
-   document.body.style.backgroundSize = "110px 110px";
-   background=true;
-  }
-}
-
-function bobChange(){
- document.body.style.background = "url(bobst.svg) repeat";
- if(doubleSize)
-  {document.body.style.backgroundSize = "25px 15px";}
- else
-  {document.body.style.backgroundSize = "50px 30px";}
- doubleSize=!doubleSize;
-}
-
-setInterval(bobChange,7000);
-
-function resumeLoad(){
- var win = window.open("CVMLiszt2018/index.html", '_blank');
- win.focus();
-}
-</script>
 <br></br><br></br><br></br><br></br><br></br><br></br>
 <!-- Start of SimpleHitCounter Code -->
 <div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2301505&f=255&b=16777215" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>

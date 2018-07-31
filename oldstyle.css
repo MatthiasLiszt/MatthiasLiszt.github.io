@@ -1,0 +1,77 @@
+body {
+  font-family: "Arial", Arial, sans-serif;
+  font-style: normal;
+  //background: url(arabtile.png) repeat;
+  background-color: lightgrey; 
+  padding-left: 3em;
+}
+#resume{
+ 
+ color: blue;
+ font-weight: bold;
+ float:left;
+ border: none;
+ background: transparent;
+ font-size: 1.32em;
+ animation: glowing 1500ms infinite;
+ border-radius: 8px;
+}
+
+.profile{
+ border-radius: 50%;
+ border-style: dotted 3px lightgrey;
+ width: 25vw;
+ height: 29vh; 
+ padding-left: 8px;
+ padding-top: 16px;
+}
+
+.rainbowback{
+ background: linear-gradient(to right, red , blue);
+ width: 32vw;
+ height: 36vh;
+ border-radius: 50%;
+}
+
+@-o-keyframes glowing {
+  0% {  box-shadow: 0 0 3px #B20000; }
+  50% {  box-shadow: 0 0 40px #FF0000; }
+  100% {  box-shadow: 0 0 3px #B20000; }
+}
+
+@keyframes glowing {
+  0% {  box-shadow: 0 0 3px #B20000; }
+  50% {  box-shadow: 0 0 40px #FF0000; }
+  100% {  box-shadow: 0 0 3px #B20000; }
+}
+
+#myprojects{
+ margin-top: 3em;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap
+}
+
+.tagbutton{
+ margin-left: 2em;
+ color: green;
+ font-size: 1.33em;
+ border: none;
+ border-color: transparent;
+ background-color: transparent;
+}
+
+.project {
+ //width: 61vw;
+ //display: inline;
+ display: block;
+ padding: 2em;
+}
+
+.project iframe{
+ //height: 80%;
+ //width: 80%;
+ width: 71vw;
+ height: 51vh;
+}
+
