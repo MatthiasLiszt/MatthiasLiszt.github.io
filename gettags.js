@@ -22,13 +22,26 @@ function showEntryWithTag(tag){
   //alert(tag);
   projects.map(function(x){var tagged=x.tags.join('');
                            if(tagged.indexOf(tag)!=-1)
-                            {var wrap=`<div class="project" onclick="alert('clicked')">
-                                          <a href="${x.demo}"><iframe src="${x.demo}"></iframe>
+                            {if(x.hasOwnProperty('screenshot'))
+                              {var wrap=`<div class="project" onclick="window.open('${x.demo}')">
+                                          <!-- a href="${x.demo}" style="text-decoration:none;color:black;" -->
+                                          <img src="screenshots/${x.screenshot}">
                                           <h4>${x.name}</h4>
                                           <a href="${x.source}">source</a>   
                                           <a href="${x.description}">description</a>  
-                                          </a>  
+                                          <!-- /a -->  
                                        </div>`;
+                              }
+                             else
+                              {var wrap=`<div class="project" onclick="window.open('${x.demo}')">
+                                          <!--a href="${x.demo}" style="text-decoration:none;color:black;" -->
+                                          <iframe src="${x.demo}"></iframe>
+                                          <h4>${x.name}</h4>
+                                          <a href="${x.source}">source</a>   
+                                          <a href="${x.description}">description</a>  
+                                          <!-- /a -->  
+                                       </div>`;
+                               }
                              entries.push(wrap);
                             } 
                           }); 
