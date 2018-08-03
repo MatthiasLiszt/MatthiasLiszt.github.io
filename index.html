@@ -8,11 +8,17 @@ HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab">
 <script src="jquery.min.js"></script>
 </head>
 <body onclick="changeTessellation()">
-<div id="mainline"><button id="resume" onclick="resumeLoad()">Resume/CV</button></div>
+<div id="mainline"><button id="resume" onclick="resumeLoad()">Resume/CV</button>
+                   <button id="burgerbar" onmouseover="showMore($('#burgerbarlogo'))" ><span id='burgerbarlogo'>&#9776;</span>
+                     <div id="moredropdown" onmouseout="showBurgerBar($('#burgerbarlogo'))" style="display:none">
+                       <p onclick="window.open('https://stackshare.io/MatthiasLiszt/intisisaisteck/details')">My Stack</p>
+                     </div>  
+                   </button>
+</div>
 <br></br>
 <div id="headpicture" onclick="$('#headpicture').hide();">
 <center><h1>Matthias Liszt's Code Portfolio</h1></center>
-<center><div class="rainbowback profilecover"><img id="profile" class="profile" onclick="shrinkPicture()" src="25592425.jpeg" alt="M.Liszt profile picture" /></div></center>
+<center><div class="rainbowback profilecover"><img id="profile" class="profile" onclick="shrinkPicture()" src="25592425.jpeg" alt="M.Liszt profile picture" /></div></center>         
 </div>
 
 <h3>Select skills to see projects</h3>
@@ -33,5 +39,8 @@ HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab">
 code, coding, programming, software engineer, software developer, mean stack, web development, development, engineering, node.js, angular.js, express.js, mongoDB,  javascript, open source, frontend development, frontend, CSS, SVG, angular, restAPI, rest, freelancer, freelance, SEO, coding4lifeblog, freecodecamp, IOG-Austria, engineers without borders,
 HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab
 </div>
+<script>
+ setInterval(restoreBackground,3333);
+</script>
 </body>
 </html>

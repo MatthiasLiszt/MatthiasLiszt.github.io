@@ -38,3 +38,22 @@ function resumeLoad(){
  var win = window.open("CVMLiszt2018/index.html", '_blank');
  win.focus();
 }
+
+function showMore(id){
+ id.html('More');
+ id.css("background-color","yellow");
+ $('#moredropdown').show();
+}
+
+function showBurgerBar(id){
+ id.html('&#9776;');
+ id.css("background-color","transparent");
+ $('#moredropdown').hide();
+}
+
+function restoreBackground(){
+ if(background)
+  {document.body.style.background = "#eaeaea";
+   background=false;
+  }
+}

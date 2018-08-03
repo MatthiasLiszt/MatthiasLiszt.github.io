@@ -17,6 +17,35 @@ body {
  border-radius: 8px;
 }
 
+#mainline button{
+ color: blue;
+ font-weight: bold;
+ float:left;
+ border: none;
+ background: transparent;
+ font-size: 1.32em;
+}
+
+#moredropdown{
+ position: absolute;
+ //border: solid black 1px;
+ //display:none;
+ //opacitiy: 0.5;
+ padding-right: 0.5em;
+ //width: 16em;
+ background-color: grey;
+}
+
+#moredropdown p{
+ margin-top: 0.21em;
+ margin-bottom: 0.21em;
+}
+
+
+#moredropdown a{
+ text-decoration: none;
+}
+
 .profile{
  border-radius: 50%;
  border-style: dotted 3px lightgrey;
@@ -60,6 +89,8 @@ body {
  border-color: transparent;
  background-color: transparent;
 }
+
+
 
 .project {
  //width: 61vw;
