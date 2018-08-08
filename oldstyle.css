@@ -90,6 +90,22 @@ body {
  background-color: transparent;
 }
 
+.taglogobutton{
+ border: none;
+ color: black;
+ background-color: transparent;
+}
+
+.taglogobutton:hover {
+ border: none;
+ color: black;
+ background-color: yellow;
+}
+
+.taglogobutton img{
+ width: 70px;
+}
+
 
 
 .project {
