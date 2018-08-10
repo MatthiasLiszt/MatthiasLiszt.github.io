@@ -41,7 +41,7 @@ function resumeLoad(){
 
 function showMore(id){
  id.html('More');
- id.css("background-color","lightgrey");
+ id.css("background-color","yellow");
  $('#moredropdown').show();
 }
 
@@ -53,7 +53,7 @@ function showBurgerBar(id){
 
 function restoreBackground(){
  if(background)
-  {document.body.style.background = "white";
+  {document.body.style.background = "#eaeaea";
    background=false;
   }
 }
