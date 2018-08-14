@@ -8,12 +8,17 @@ HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab">
 <script src="jquery.min.js"></script>
 </head>
 <body onclick="changeTessellation()">
+<div id="wrapper">
 <div id="mainline"><!-- button id="resume" onclick="resumeLoad()">Resume/CV</button -->
+                   <div id="burgerwrapper"> 
                    <button id="burgerbar" onmouseover="showMore($('#burgerbarlogo'))" ><span id='burgerbarlogo'>&#9776;</span>
-                     <div id="moredropdown" onmouseout="showBurgerBar($('#burgerbarlogo'))" style="display:none">
-                       <p onclick="window.open('https://stackshare.io/MatthiasLiszt/intisisaisteck/details')">My Stack</p>
-                     </div>  
                    </button>
+                     <div id="moredropdown"  style="display:none" >
+                       <!--p onclick="window.open('https://stackshare.io/MatthiasLiszt/intisisaisteck/details')">My Stack</p-->
+                       <p><a href="https://stackshare.io/MatthiasLiszt/intisisaisteck/details">My Stack</a></p>
+                     </div>  
+                     </div><!-- burgerwrapper --> 
+                   
 </div>
 <br></br>
 <div id="headpicture" >
@@ -25,6 +30,12 @@ HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab">
 <div id="myprojects">
 <div id="entries"></div>
 </div>
+</div><!-- div wrapper -->
+<footer>
+<div id="contactline"><span><strong>Kontakt</bold></strong>
+                      <span>+43 677 616 843 66</span>
+                      <span><a href="mailto:matthias.liszt@gmail.com">matthias.liszt@gmail.com</a></span></div>
+</footer>
 
 <script src="oldjava.js"></script>
 <script src="projects.json"></script>
@@ -40,6 +51,7 @@ HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab
 </div>
 <script>
  setInterval(restoreBackground,333);
+ setInterval(showBurgerBar,2999);
 </script>
 </body>
 </html>

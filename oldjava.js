@@ -41,11 +41,12 @@ function resumeLoad(){
 
 function showMore(id){
  id.html('More');
- id.css("background-color","lightgrey");
+ //id.css("background-color","lightgrey");
  $('#moredropdown').show();
 }
 
-function showBurgerBar(id){
+function showBurgerBar(){
+ var id=$('#burgerbarlogo');
  id.html('&#9776;');
  id.css("background-color","transparent");
  $('#moredropdown').hide();

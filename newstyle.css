@@ -3,8 +3,14 @@ body {
   font-style: normal;
   //background: url(arabtile.png) repeat;
   background-color: white; 
-  padding-left: 3em;
+
 }
+
+#wrapper{
+ padding-left: 3em;
+}
+
+
 #resume{
  
  color: blue;
@@ -34,6 +40,7 @@ body {
 
 #moredropdown{
  position: absolute;
+ top: 2em;
  right: 1vw;
  //border: solid black 1px;
  //display:none;
@@ -50,9 +57,15 @@ body {
  margin-bottom: 0.21em;
 }
 
+#moredropdown p:hover{
+ background-color: lightgrey;
+}
+
 
 #moredropdown a{
  text-decoration: none;
+ color: black;
+ font-weight: bold;
 }
 
 .profile{
@@ -152,3 +165,29 @@ body {
  width: 71vw;
  height: 51vh;
 }
+
+#contactline{
+ position: fixed;
+ margin: 0;
+ bottom: 1px;
+ padding-top: 1em;
+ padding-bottom: 1em;
+ width: 100vw;
+ background-color: black;
+ color: white;
+ 
+}
+
+#contactline span{
+ margin-left: 5em;
+}
+
+#contactline a{
+ text-decoration: none;
+ color: white;
+}
+
+#contactline a:hover{
+ color: yellow;
+}
+
