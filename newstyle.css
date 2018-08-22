@@ -152,3 +152,12 @@ body {
  width: 71vw;
  height: 51vh;
 }
+
+#moredropdown p:hover{
+ background-color: lightgrey;
+}
+
+#moredropdown p a{
+ text-decoration: none;
+ color: black;
+}
