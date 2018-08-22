@@ -1,0 +1,27 @@
+#presiconfBar{
+ position: fixed;
+ bottom: 1vh;
+ height: 9vh;
+ background-color: yellow;
+ width: 90vw;
+ display: flex;
+ justify-content: space-between;
+}
+
+#curSlide{
+ width: 80vw;
+ height: 100vh;
+ background-color: lightgrey;
+ padding-left: 3em;
+ padding-right: 11em;
+}
+
+.slide{
+ display: none;
+}
+
+#presiconfBar button{
+ border: none;
+ 
+ background-color: transparent;
+}

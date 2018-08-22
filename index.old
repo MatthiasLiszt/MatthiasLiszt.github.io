@@ -1,0 +1,46 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="code, coding, programming, software engineer, software developer, mean stack, web development, development, engineering, node.js, angular.js, express.js, mongoDB,  javascript, open source, frontend development, frontend, CSS, SVG, angular, restAPI, rest, freelancer, freelance, SEO, coding4lifeblog, freecodecamp, IOG-Austria, engineers without borders,
+HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab">
+<title>Matthias Liszt's Code Portfolio</title>
+<link rel="stylesheet" href="oldstyle.css">
+<script src="jquery.min.js"></script>
+</head>
+<body onclick="changeTessellation()">
+<div id="mainline"><!-- button id="resume" onclick="resumeLoad()">Resume/CV</button -->
+                   <button id="burgerbar" onmouseover="showMore($('#burgerbarlogo'))" ><span id='burgerbarlogo'>&#9776;</span>
+                     <div id="moredropdown" onmouseout="showBurgerBar($('#burgerbarlogo'))" style="display:none">
+                       <p onclick="window.open('https://stackshare.io/MatthiasLiszt/intisisaisteck/details')">My Stack</p>
+                     </div>  
+                   </button>
+</div>
+<br></br>
+<div id="headpicture" onclick="$('#headpicture').hide();">
+<center><h1>Matthias Liszt's Code Portfolio</h1></center>
+<center><div class="rainbowback profilecover"><img id="profile" class="profile" onclick="shrinkPicture()" src="25592425.jpeg" alt="M.Liszt profile picture" /></div></center>         
+</div>
+
+<h3>Select skills to see projects</h3>
+<div id="mytags"></div>
+<div id="myprojects">
+<div id="entries"></div>
+</div>
+
+<script src="oldjava.js"></script>
+<script src="projects.json"></script>
+<script src="gettags.js"></script>
+<br></br>
+<br></br><br></br><br></br><br></br><br></br><br></br>
+<!-- Start of SimpleHitCounter Code -->
+<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2301505&f=255&b=16777215" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
+<!-- End of SimpleHitCounter Code -->
+<div id="invisible" style="color:lightgrey;font-size:5px;">
+code, coding, programming, software engineer, software developer, mean stack, web development, development, engineering, node.js, angular.js, express.js, mongoDB,  javascript, open source, frontend development, frontend, CSS, SVG, angular, restAPI, rest, freelancer, freelance, SEO, coding4lifeblog, freecodecamp, IOG-Austria, engineers without borders,
+HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab
+</div>
+<script>
+ setInterval(restoreBackground,3333);
+</script>
+</body>
+</html>

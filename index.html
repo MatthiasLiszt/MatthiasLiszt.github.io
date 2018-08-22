@@ -1,0 +1,67 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="code, coding, programming, software engineer, software developer, mean stack, web development, development, engineering, node.js, angular.js, express.js, mongoDB,  javascript, open source, frontend development, frontend, CSS, SVG, angular, restAPI, rest, freelancer, freelance, SEO, coding4lifeblog, freecodecamp, IOG-Austria, engineers without borders,
+HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab">
+<title>Matthias Liszt's Code Portfolio</title>
+<link rel="stylesheet" href="newstyle.css">
+<script src="jquery.min.js"></script>
+</head>
+<body onclick="changeTessellation()">
+<div id="wrapper">
+<div id="mainline"><!-- button id="resume" onclick="resumeLoad()">Resume/CV</button -->
+                   <div id="burgerwrapper"> 
+                   <button id="burgerbar" onmouseover="showMore($('#burgerbarlogo'))" ><span id='burgerbarlogo'>&#9776;</span>
+
+                     <div id="moredropdown" onmouseout="showBurgerBar($('#burgerbarlogo'))" style="display:none">
+                       <p><a onclick="window.open('https://stackshare.io/MatthiasLiszt/intisisaisteck/details')">My Stack</a></p>
+                       <p><a onclick="window.open('certificates.html')" href="certificates.html">Certificates</a></p>
+                     </div>  
+                   </div><!-- burgerwrapper --> 
+                   
+</div>
+<br></br>
+<div id="headpicture" >
+<center><img id="profile" class="round edgeblurred" src="mooncalf.png" alt="M.Liszt profile picture" /></center>         
+</div>
+
+<h3>Select skills to see projects</h3>
+<div id="mytags"></div>
+<div id="myprojects">
+<div id="entries"></div>
+</div>
+</div><!-- div wrapper -->
+<footer>
+<div id="contactline"><span><strong>Kontakt</bold></strong>
+                      <span>+43 677 616 843 66</span>
+                      <span><a href="mailto:matthias.liszt@gmail.com">matthias.liszt@gmail.com</a></span></div>
+</footer>
+
+<script src="oldjava.js"></script>
+<script src="projects.json"></script>
+<script src="gettags.js"></script>
+<br></br>
+<br></br><br></br><br></br><br></br><br></br><br></br>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123948941-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123948941-1');
+</script>
+
+
+
+<div id="invisible" style="color:lightgrey;font-size:5px;">
+code, coding, programming, software engineer, software developer, mean stack, web development, development, engineering, node.js, angular.js, express.js, mongoDB,  javascript, open source, frontend development, frontend, CSS, SVG, angular, restAPI, rest, freelancer, freelance, SEO, coding4lifeblog, freecodecamp, IOG-Austria, engineers without borders,
+HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab
+</div>
+<script>
+ setInterval(restoreBackground,333);
+ setInterval(showBurgerBar,2999);
+</script>
+</body>
+</html>
