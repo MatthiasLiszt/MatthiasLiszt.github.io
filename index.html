@@ -12,12 +12,12 @@ HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab">
 <div id="mainline"><!-- button id="resume" onclick="resumeLoad()">Resume/CV</button -->
                    <div id="burgerwrapper"> 
                    <button id="burgerbar" onmouseover="showMore($('#burgerbarlogo'))" ><span id='burgerbarlogo'>&#9776;</span>
-                   </button>
-                     <div id="moredropdown"  style="display:none" >
-                       <!--p onclick="window.open('https://stackshare.io/MatthiasLiszt/intisisaisteck/details')">My Stack</p-->
-                       <p><a href="https://stackshare.io/MatthiasLiszt/intisisaisteck/details">My Stack</a></p>
+
+                     <div id="moredropdown" onmouseout="showBurgerBar($('#burgerbarlogo'))" style="display:none">
+                       <p><a onclick="window.open('https://stackshare.io/MatthiasLiszt/intisisaisteck/details')">My Stack</a></p>
+                       <p><a onclick="window.open('certificates.html')" href="certificates.html">Certificates</a></p>
                      </div>  
-                     </div><!-- burgerwrapper --> 
+                   </div><!-- burgerwrapper --> 
                    
 </div>
 <br></br>
@@ -65,3 +65,4 @@ HTL Pinkafeld, developer's rising, FCC Vienna, webclerks, sector5, metalab
 </script>
 </body>
 </html>
+
