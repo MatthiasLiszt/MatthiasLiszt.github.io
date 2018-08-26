@@ -1,4 +1,5 @@
-var projects=[{"name": "Martian Safari The New Explorer", "source": "https://github.com/MatthiasLiszt/MartianSafariTheNewExplorer",
+var projects=[{"name": "Martian Safari The New Explorer", "source": "https://github.com/MatthiasLiszt/MartianSafariTheNewExplorer","screenshot":"martiansafari.png",
+"demo": "https://martiansafari-e7d07.firebaseapp.com/",
 "description": "https://coding4lifeblog.wordpress.com/2017/10/26/a-martian-safari-with-angular-former-angular-2/", "tags": 
 ["typescript","angular"]},{"name": "Simple Kaleidoscopic Background", "demo": "https://codepen.io/mahagugu/full/JrMEYb",
 "source": "https://github.com/MatthiasLiszt/simplekaleidoscope", "description": "https://coding4lifeblog.wordpress.com/2017/10/05/a-scalable-kaleido-for-background/", "tags": ["javascript","svg"] },
