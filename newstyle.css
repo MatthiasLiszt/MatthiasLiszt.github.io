@@ -188,9 +188,23 @@ body {
  
 }
 
-#contactline span{
- margin-left: 5em;
+@media screen and (min-width: 777px) {
+    
+  #contactline span{
+    margin-left: 5em;
+  }
+
 }
+
+@media screen and (max-width: 776px) {
+    
+  #contactline span{
+    font-size: 0.7em;
+    margin-left: 1em;
+  }
+
+}
+
 
 #contactline a{
  text-decoration: none;
