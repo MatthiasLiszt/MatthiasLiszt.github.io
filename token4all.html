@@ -1,0 +1,104 @@
+<html>
+<meta charset="utf-8">
+<body>
+<h1 id="tokensfralle">Tokens für Alle</h1>
+
+<h2 id="inhaltsverzeichnis">Inhaltsverzeichnis</h2>
+
+<ol>
+<li><a href="#zweck">Zweck</a></li>
+
+<li><a href="#blockchain">Blockchain</a></li>
+
+<li><a href="#vereinfachung">Vereinfachung der Blockchain</a></li>
+
+<li><a href="#entstehung">Entstehung von einem Token</a></li>
+
+<li><a href="#beispiele">Beispiele</a></li>
+
+<li><a href="#seed">Seed</a></li>
+</ol>
+
+<h2 id="zweck">Zweck</h2>
+
+<p>Die App ist als Lernsoftware für Kinder und Erwachsene gedacht. Man soll sich quasi einen Onlineshop
+selber bauen können, wo man Waren gegen eigene Tokens verkaufen kann. Tokens kann man sich grob als 
+digitale Gutscheine vorstellen, die man auch an andere weiter geben kann. In der App soll eine vereinfachte 
+zentrale <a href="#blockchain">Blockchain</a> verwendet werden. </p>
+
+<h2 id="blockchain">Blockchain</h2>
+
+<p>Die Blockchain kann man sich als ein Buch mit einzelnen Buchungsseiten vorstellen. Jede Seite ist mit einer
+anderen Seite durch Hashs (so was ähnliches wie Prüfsummen) miteinander verbunden, so dass das fehlen bzw.
+die Veränderung einer Seite sofort auffällt. Auf den Buchungsseiten oder Blocks sind die einzelnen Überweisungen
+oder Transaktionen gespeichert. </p>
+
+<p>Das Wort Block kommt von Notizblock. Anstatt als Buch kann man sich demnach die Blockchain als eine Art digitalen
+Notizblock mit einzelnen Seiten vorstellen. </p>
+
+<h2 id="entstehung">Entstehung von einem Token</h2>
+
+<p>Aus einer zufälligen Nummer wird eine Adresse - in der Regel ein <a href="#hash">Hash</a> - und ein Schlüssel erzeugt. 
+Auf die Adresse kann dann z.B. Geld gebucht werden. Dies wird in der <a href="#blockchain">Blockchain</a> eingetragen
+und ist für alle nachvollziehbar. </p>
+
+<p>Auf eine Adresse kann jeder beliebige Wert gebucht werden. Praktisch sind natürlich kleinere Werte für kleinere
+Zahlungen. Stellen wir uns das halt so vor , dass wir Adressen mit Geldschein- und Münzbeträgen wie z.B. 5 € , 
+1 €, 50 Cent, 20 Cent usw. aufladen. Daneben brauchen wir auch Adressen fürs Wechselgeld. Wenn ich z.B. was für 
+1,60€ kaufe und mit einer Adresse zahle wo 5 € drauf sind, dann möchte ich gerne 3,40€ zurückbekommen. Dafür brauche
+ich dann aber eine zweite Adresse, wo ruhig schon was drauf sein kann. Nehmen wir an auf einer Adresse sind
+schon 2,50€ drauf. Wenn jetzt noch die 3,40€ Wechselgeld dazukommen, dann sind auf der Adresse schon 5,90€ gespeichert.</p>
+
+<p>Die einzige Möglichkeit nachzusehen wieviel auf einer Adresse gespeichert sind, ist auf der <a href="#blockchain">Blockchain</a>
+nachzusehen. </p>
+
+<p>Will man Geld von einer Adresse ausgeben, dann braucht man dazu den Schlüssel. Aus Sicherheitsgründen sollte man Adressen
+nicht noch mal verwenden auf denen schon was abgebucht wurde. Das Erstellen von beliebig vielen neuen Adressen stellt 
+ohnehin kein Problem dar. </p>
+
+<h2 id="vereinfachung">Vereinfachung der Blockchain</h2>
+
+<p>Die Blockchain ist zentralistisch d.h. es werden nur von einer zentralen Stelle Buchungen auf der Blockchain eingetragen
+und nur von einer Stelle neue Blöcke oder Buchungsseiten in periodischen Abständen ausgegeben. Auch wird aus praktischen
+Gründen auf eine maximale Blockgröße verzichtet, was in der Praxis jedoch wegen Missbrauchs nicht durchführbar ist. </p>
+
+<p>Der Einfachheit halber ist eine Transaktion abgeschlossen, wenn sie zu mindest auf einem abgeschlossenen <a href="#blockchain">Block</a> auffindbar ist.
+Ein abgeschlossener <a href="#blockchain">Block</a> ist ja mit dem nächsten durch einen <a href="#hash">Hash</a> verbunden. </p>
+
+<p>Um ein schnelles Zahlen zu ermöglichen sollten neue <a href="#blockchain">Blöcke</a> zu mindest innerhalb von ein bis zwei Minuten erstellt werden. </p>
+
+<h2 id="beispiele">Beispiele</h2>
+
+<p>Nadja macht Urlaub in einem kleinen Dorf in den Bergen. Sie bucht ein Zimmer in einer Pension und die Gastgeberin 
+erzählt ihr von den Dorf-Tokens. Sie könne direkt bei ihr diese Dorf-Tokens erwerben und könne somit alles im Dorf
+mit diesen digitalen Tokens bequem von ihrem Handy aus bezahlen. Dazu müsste sie nur die App herunterladen und könne
+dann eben gegen Bargeld bei der Gastgeberin oder über eine Überweisung von ihrem Bankkonto Tokens von der Dorf-Webseite
+kaufen. </p>
+
+<p>Nadja kann sich zunächst recht wenig darunter vorstellen, ist aber neugierig und weil die Gastgeberin gar so lieb ist, 
+beschliesst sie mal für zehn Euro Dorf-Tokens zu kaufen. Vorher fragt sie die Gastgeberin aber noch , was denn sei, wenn 
+ihr Tokens übrigblieben. Dorf-Tokens können jederzeit über die Dorf-Webseite zurückgegeben werden und man bekäme dann 
+innerhalb der Dauer einer üblichen SEPA-Überweisung das Geld auf seinem Konto überwiesen. Das beruhigt Nadja sehr und sie
+will gleich für zwanzig Euro Dorf-Tokens kaufen. </p>
+
+<p>Nicht zu schnell zuerst muss mal die App heruntergeladen werden und ein Video wie das genau vor sich geht sollte man sich
+auch vorher anschauen. </p>
+
+<p>Nadja ladet also die App herunter und die fordert sie auf ein beliebiges Muster zu zeichnen, damit
+ein sogenannter <a href="#seed">Seed</a> erstellt werden kann. Das verwirrt Nadja , aber schließlich siegt die Neugierde und die 
+App gibt sich schließlich zufrieden und sagt das sie nun benutzbar sei. Nadja geht nun zur Gastgeberin, welche 
+von ihr eine Adresse verlangt. Nadja ist zunächst wieder verwirrt, aber die Gastgeberin sagt ihr das durch den 
+<a href="#seed">Seed</a> bereits eine lange Liste von Adressen erstellt wurde und sie einfach eine beliebige auswählen könne und 
+zeigt ihr gleich wie das auf der App geht. </p>
+
+<p>Es erscheint ein komisches Muster namens QR-Code und Nadja gibt der Gastgeberin zwanzig Euro für die Dorf-Tokens. </p>
+
+<h2 id="seed">Seed</h2>
+
+<p>Aus langen folgen von Zufallszahlen wird ein sogenannter Seed - Samen auf Englisch - gewonnen mit deren Hilfe beliebige Adressen
+und Schlüssel ( siehe <a href="#entstehung">Entstehung von einem Token</a> ) gewonnen werden können. In der Regel werden Adressen
+und Schlüssel in einer <strong>Wallet</strong> oder digitalen Geldbörse verwaltet. Diese Adressen können dann durch die <a href="#blockchain">Blockchain</a>
+mit Geld befüllt werden.  </p>
+
+</body>
+</html>
