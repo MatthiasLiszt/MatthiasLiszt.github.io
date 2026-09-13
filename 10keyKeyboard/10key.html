@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ilo nena pi nena luka luka</title>
+  <!-- Fixed CSS Link syntax -->
+  <link rel="stylesheet" href="10key.css">
+</head>
+<body>
+
+<div class="app-container">
+  <!-- App Title Bar -->
+  <div class="header">
+    <h1>ilo nena pi nena luka luka</h1>
+    <h2>10-key layout for Toki Pona</h2>
+  </div>
+
+  <!-- Live Preview Header -->
+  <div class="status-bar">
+    <div>Buffer: <span id="rawBuffer">-</span></div>
+    <div>Match: <span id="liveMatch">-</span></div>
+  </div>
+
+  <!-- Text Output Area -->
+  <textarea id="output" placeholder="Type here..." readonly></textarea>
+
+  <!-- Script Selection Buttons -->
+  <div class="script-selector">
+    <button id="btnLasina" class="active">Lasina</button>
+    <button id="btnAkesi">Akesi</button>
+    <button id="btnUcsur">UCSUR</button>
+  </div>
+
+  <!-- Keyboard Container -->
+  <div class="keyboard-wrapper">
+    <!-- 10-Key Grid (A S D F G on row 1 | H J K L ; on row 2) -->
+    <div id="keyboard" class="key-grid"></div>
+
+    <!-- Action Bar -->
+    <div class="action-grid">
+      <button id="btnSpace" class="action-btn space">SPACE</button>
+      <button id="btnCopy" class="action-btn">COPY</button>
+      <button id="btnBackspace" class="action-btn">⌫</button>
+      <button id="btnClear" class="action-btn danger">CLEAR</button>
+    </div>
+  </div>
+</div>
+
+<script src="10key.js"></script>
+</body>
+</html>
